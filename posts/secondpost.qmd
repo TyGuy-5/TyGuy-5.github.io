@@ -1,0 +1,6 @@
+---
+title: "Post 2"
+format: html
+---
+
+My post

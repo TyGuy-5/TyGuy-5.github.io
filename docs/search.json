@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Post 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost 2\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/firstpost.html",
+    "href": "posts/firstpost.html",
+    "title": "Post 1",
+    "section": "",
+    "text": "My post"
+  },
+  {
+    "objectID": "posts/secondpost.html",
+    "href": "posts/secondpost.html",
+    "title": "Post 2",
+    "section": "",
+    "text": "My post"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Alicia",
