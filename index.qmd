@@ -2,17 +2,17 @@
 title: "Alicia"
 subtitle: "Data Scientist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
-image: profile.jpg
+image: profile.gif
 image-alt: "Photo of a door partially open revealing a green landscape"
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   links:
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/TyGuy-5
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/tyler-celotta/
 ---
 
 A little bit about me and my life. 
