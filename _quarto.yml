@@ -22,5 +22,8 @@ website:
 
 format:
   html:
-    theme: [cosmo, styles.scss]
+    respect-user-color-scheme: true
+    theme:
+      light: flatly
+      dark: darkly
 
