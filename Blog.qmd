@@ -2,7 +2,7 @@
 title: "My Blog"
 format: html
 listing:
-    contents: posts
+    contents: Posts
 editor: source
 ---
 

@@ -4,7 +4,7 @@ subtitle: "Personal Portfolio"
 image: profile.gif
 image-alt: "Photo of Tyler"
 about: # https://quarto.org/docs/websites/website-about.html
-  template: jolla
+  template: marquee
   links:
     - icon: envelope
       text: Email

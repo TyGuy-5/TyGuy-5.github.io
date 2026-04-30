@@ -2,8 +2,14 @@
   {
     "listing": "/Blog.html",
     "items": [
-      "/posts/firstpost.html",
-      "/posts/secondpost.html"
+      "/Posts/firstpost.html",
+      "/Posts/secondpost.html"
+    ]
+  },
+  {
+    "listing": "/Portfolio.html",
+    "items": [
+      "/Photos/photos.html"
     ]
   }
 ]

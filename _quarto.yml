@@ -13,6 +13,8 @@ website:
         href: Homepage.qmd
       - text: Blog
         href: Blog.qmd
+      - text: Portfolio
+        href: Portfolio.qmd
     tools: 
       - icon: github
         text: Github
