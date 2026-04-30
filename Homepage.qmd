@@ -18,7 +18,13 @@ A little bit about me and my life.
 
 ## Education
 
-Reed College of Portland \| Oregon \| Sept 2024 - Present
+- Enrolled in 3/2 Dual Degree Program: BA Physics (Reed) + BS Mechanical Engineering (Columbia University)
+
+- Coursework: Calculus (I,II,III), Linear Algebra, Data Science, Physics, Chemistry, Logic, Humanities, Ethics, Economics
+
+- Earned credits from the University of Minnesota (Physics, English, Python)
+
+- Earned credits from the University of St.Thomas (Statistics)
 
 ## Experience
 Intern, Mechanical Engineering, Twin Cities Makers -- Minneapolis, MN | Jun 2025 -- Aug 2025
