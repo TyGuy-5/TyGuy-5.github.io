@@ -25,20 +25,41 @@
     "href": "Homepage.html",
     "title": "Tyler Celotta",
     "section": "",
-    "text": "A little bit about me and my life."
+    "text": "Physics student at Reed College enrolled in a dual degree program with a strong background in mechanical engineering and hands-on experience in machining and design. Skilled in Python programming, data analysis, and fabrication, with leadership experience, a love of the outdoors, and an engaged member of the community as an Eagle Scout."
   },
   {
     "objectID": "Homepage.html#education",
     "href": "Homepage.html#education",
     "title": "Tyler Celotta",
     "section": "Education",
-    "text": "Education\n\nEnrolled in 3/2 Dual Degree Program: BA Physics (Reed) + BS Mechanical Engineering (Columbia University)\nCoursework: Calculus (I,II,III), Linear Algebra, Data Science, Physics, Chemistry, Logic, Humanities, Ethics, Economics\nEarned credits from the University of Minnesota (Physics, English, Python)\nEarned credits from the University of St.Thomas (Statistics)"
+    "text": "Education\nReed College, BA in Physics – Portland, OR | Jan 2024 – Present\n\nEnrolled in 3/2 Dual Degree Program: BA Physics (Reed) + BS Mechanical Engineering (Columbia University)\nCoursework: Calculus (I,II,III), Linear Algebra, Data Science, Physics, Chemistry, Logic, Humanities, Ethics, Economics\nEarned credits from the University of Minnesota (Physics, English, Python)\nEarned credits from the University of St.Thomas (Statistics)"
   },
   {
     "objectID": "Homepage.html#experience",
     "href": "Homepage.html#experience",
     "title": "Tyler Celotta",
     "section": "Experience",
-    "text": "Experience\n\nIntern, Mechanical Engineering, Twin Cities Makers – Minneapolis, MN | Jun 2025 – Aug 2025\nLifeguard, City of Lino Lakes & Community Education ISD12 – Lion Lakes, MN | Jul 2022 – Aug 2023\nBarista, Caribou Coffee – Moundsview, MN | Jun 2024 – Sept 2025\nContracted Trip Leader – Portland, OR | Aug 2025 – Sep 2025\nVan Driver, Reed College – Portland, OR | Aug 2024 – Present\nUmpire, Centennial Little League – Lion Lakes, MN | Feb 2022 – Jul 2025\nPortrait Photographer, Celotta Photos | April 2023 – Present"
+    "text": "Experience\nIntern, Mechanical Engineering, Twin Cities Makers – Minneapolis, MN | Jun 2025 – Aug 2025 - Designed and implemented a 15-hour curriculum covering manual milling, lathe turning, and CNC programming. - Designed/built two-stage evaporative cooling prototype (ΔT = 5°F at 60% humidity). - Fabricated precision tools by hand (non-sparking propane regulator wrench, ± 0.003’’ tolerance). - Conducted mechanical maintenance on shop systems (plumbing, HVAC, machines) to improve equipment uptime. - Collaborated with shop members to brainstorm and troubleshoot project issues to help them move forward.\nEngineering Job Shadow, Medtronic – Minneapolis, MN | Oct 2023 - Shadowed 6 biomedical engineers developing pacemaker systems; observed live surgery for procedural analysis. - Discussed testing and materials protocols for medical-grade components under NDA.\nGrant Writer, Centennial School District – Lino Lakes, MN | Nov 2021 – March 2022 - Co-drafted proposal for diesel-to-electric bus fleet conversion. - Performed 30-year cost-benefit analysis with state data. - Created technical and economic modeling in Excel to demonstrate long-term energy savings.\nContracted Trip Leader – Portland, OR | Aug 2025 – Sep 2025\nLifeguard, City of Lino Lakes & Community Education ISD12 – Lino Lakes, MN | Jul 2022 – Aug 2023\nBarista, Caribou Coffee – Moundsview, MN | Jun 2024 – Sept 2025\nVan Driver, Reed College – Portland, OR | Aug 2024 – Present\nUmpire, Centennial Little League – Lino Lakes, MN | Feb 2022 – Jul 2025\nPortrait Photographer, Celotta Photos | April 2023 – Present"
+  },
+  {
+    "objectID": "Homepage.html#skills",
+    "href": "Homepage.html#skills",
+    "title": "Tyler Celotta",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming: Python (data analysis, math modeling, and graphical analysis)\nData Tools: R, Minitab, and Excel\nFabrication: Autodesk Fusion 360 (CAD/CAM), CNC milling (2.5 & 3-axis), manual milling (w/ rotary vice), MIG/TIG/Stick welding, equipment installation & calibration, small engine repair, and machine maintenance.\nCertifications: OSHA 10, WFR, First Aid, CPR, Epinephrine (2025), Lifeguard (2022)"
+  },
+  {
+    "objectID": "Homepage.html#achievements",
+    "href": "Homepage.html#achievements",
+    "title": "Tyler Celotta",
+    "section": "Achievements",
+    "text": "Achievements\n\nEagle Scout, Boy Scouts of America (2023)\nRecognized for analytical clarity and team methodology in MathWorks Math Modeling (M3) Challenge (2023)\nAwarded SIA (summer internship award), which offers funding to support unpaid off-campus internship opportunities in the public sector and non-profits."
+  },
+  {
+    "objectID": "Homepage.html#interests",
+    "href": "Homepage.html#interests",
+    "title": "Tyler Celotta",
+    "section": "Interests",
+    "text": "Interests\nCommunity service (Boy Scouts of America, Eagle Scout), Photography, Mechanical Design and Fabrication, Public awareness campaigns (Arrive Alive Program & Save The Boundary Waters)"
   }
 ]

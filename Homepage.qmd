@@ -6,6 +6,9 @@ image-alt: "Photo of Tyler"
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   links:
+    - icon: envelope
+      text: Email
+      href: mailto:tylercelotta@reed.edu
     - icon: github
       text: Github
       href: https://github.com/TyGuy-5
@@ -14,29 +17,60 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://www.linkedin.com/in/tyler-celotta/
 ---
 
-A little bit about me and my life. 
+Physics student at Reed College enrolled in a dual degree program with a strong background in mechanical engineering and hands-on experience in machining and design. Skilled in Python programming, data analysis, and fabrication, with leadership experience, a love of the outdoors, and an engaged member of the community as an Eagle Scout.
 
 ## Education
 
+**Reed College**, BA in Physics -- Portland, OR | Jan 2024 -- Present
+
 - Enrolled in 3/2 Dual Degree Program: BA Physics (Reed) + BS Mechanical Engineering (Columbia University)
-
 - Coursework: Calculus (I,II,III), Linear Algebra, Data Science, Physics, Chemistry, Logic, Humanities, Ethics, Economics
-
 - Earned credits from the University of Minnesota (Physics, English, Python)
-
 - Earned credits from the University of St.Thomas (Statistics)
 
 ## Experience
-- Intern, Mechanical Engineering, Twin Cities Makers -- Minneapolis, MN | Jun 2025 -- Aug 2025
 
-- Lifeguard, City of Lino Lakes & Community Education ISD12 -- Lion Lakes, MN | Jul 2022 -- Aug 2023
+**Intern, Mechanical Engineering**, Twin Cities Makers -- Minneapolis, MN | Jun 2025 -- Aug 2025
+- Designed and implemented a 15-hour curriculum covering manual milling, lathe turning, and CNC programming.
+- Designed/built two-stage evaporative cooling prototype (ΔT = 5°F at 60% humidity).
+- Fabricated precision tools by hand (non-sparking propane regulator wrench, ± 0.003'' tolerance).
+- Conducted mechanical maintenance on shop systems (plumbing, HVAC, machines) to improve equipment uptime.
+- Collaborated with shop members to brainstorm and troubleshoot project issues to help them move forward.
 
-- Barista, Caribou Coffee -- Moundsview, MN | Jun 2024 -- Sept 2025
+**Engineering Job Shadow**, Medtronic -- Minneapolis, MN | Oct 2023
+- Shadowed 6 biomedical engineers developing pacemaker systems; observed live surgery for procedural analysis.
+- Discussed testing and materials protocols for medical-grade components under NDA.
 
-- Contracted Trip Leader -- Portland, OR | Aug 2025 -- Sep 2025 
+**Grant Writer**, Centennial School District -- Lino Lakes, MN | Nov 2021 -- March 2022
+- Co-drafted proposal for diesel-to-electric bus fleet conversion.
+- Performed 30-year cost-benefit analysis with state data.
+- Created technical and economic modeling in Excel to demonstrate long-term energy savings.
 
-- Van Driver, Reed College -- Portland, OR | Aug 2024 -- Present
+**Contracted Trip Leader** -- Portland, OR | Aug 2025 -- Sep 2025
 
-- Umpire, Centennial Little League -- Lion Lakes, MN | Feb 2022 -- Jul 2025
+**Lifeguard**, City of Lino Lakes & Community Education ISD12 -- Lino Lakes, MN | Jul 2022 -- Aug 2023
 
-- Portrait Photographer, Celotta Photos | April 2023 -- Present
+**Barista**, Caribou Coffee -- Moundsview, MN | Jun 2024 -- Sept 2025
+
+**Van Driver**, Reed College -- Portland, OR | Aug 2024 -- Present
+
+**Umpire**, Centennial Little League -- Lino Lakes, MN | Feb 2022 -- Jul 2025
+
+**Portrait Photographer**, Celotta Photos | April 2023 -- Present
+
+## Skills
+
+- **Programming:** Python (data analysis, math modeling, and graphical analysis)
+- **Data Tools:** R, Minitab, and Excel 
+- **Fabrication:** Autodesk Fusion 360 (CAD/CAM), CNC milling (2.5 & 3-axis), manual milling (w/ rotary vice), MIG/TIG/Stick welding, equipment installation & calibration, small engine repair, and machine maintenance.
+- **Certifications:** OSHA 10, WFR, First Aid, CPR, Epinephrine (2025), Lifeguard (2022)
+
+## Achievements
+
+- Eagle Scout, Boy Scouts of America (2023)
+- Recognized for analytical clarity and team methodology in MathWorks Math Modeling (M3) Challenge (2023)
+- Awarded SIA (summer internship award), which offers funding to support unpaid off-campus internship opportunities in the public sector and non-profits.
+
+## Interests
+
+Community service (Boy Scouts of America, Eagle Scout), Photography, Mechanical Design and Fabrication, Public awareness campaigns (Arrive Alive Program & Save The Boundary Waters)
