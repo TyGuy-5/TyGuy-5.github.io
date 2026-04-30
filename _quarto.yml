@@ -3,22 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "My Website"
+  title: "Celotta's Portfolio"
   search: false
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
-  page-footer: "Made with ❤️ and Quarto"
+  page-footer: "612-388-8813"
   navbar:
     right:
       - text: Home
-        href: index.qmd
-      - text: Hobbies
-        href: hobbies.qmd
+        href: Homepage.qmd
       - text: Blog
         href: Blog.qmd
     tools: 
       - icon: github
         text: Github
-        href: https://github.com
+        href: https://github.com/TyGuy-5
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/tyler-celotta
 
 format:
   html:

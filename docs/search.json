@@ -7,38 +7,38 @@
     "text": "Post 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost 2\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/firstpost.html",
-    "href": "posts/firstpost.html",
-    "title": "Post 1",
-    "section": "",
-    "text": "My post"
-  },
-  {
     "objectID": "posts/secondpost.html",
     "href": "posts/secondpost.html",
     "title": "Post 2",
     "section": "",
-    "text": "My post"
+    "text": "Post 2\nI cant belive you found me lol."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Alicia",
+    "objectID": "posts/firstpost.html",
+    "href": "posts/firstpost.html",
+    "title": "Post 1",
+    "section": "",
+    "text": "Post 1\nI cant belive you found me lol."
+  },
+  {
+    "objectID": "Homepage.html",
+    "href": "Homepage.html",
+    "title": "Tyler Celotta",
     "section": "",
     "text": "A little bit about me and my life."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Alicia",
+    "objectID": "Homepage.html#education",
+    "href": "Homepage.html#education",
+    "title": "Tyler Celotta",
     "section": "Education",
-    "text": "Education\nUniversity of XYZ, City | Location | Sept 20XX - June 20XX"
+    "text": "Education\nReed College of Portland | Oregon | Sept 2024 - Present"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Alicia",
+    "objectID": "Homepage.html#experience",
+    "href": "Homepage.html#experience",
+    "title": "Tyler Celotta",
     "section": "Experience",
-    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+    "text": "Experience\nIntern, Mechanical Engineering, Twin Cities Makers – Minneapolis, MN | Jun 2025 – Aug 2025\nLifeguard, City of Lino Lakes & Community Education ISD12 | Jul 2022 – Aug 2023\nBarista, Caribou Coffee | Jun 2024 – Sept 2025\nVan Driver, Reed College | Aug 2024 – Present\nUmpire, Centennial Little League | Feb 2022 – Jul 2025\nPortrait Photographer, Celotta Photos | April 2023 – Present"
   }
 ]

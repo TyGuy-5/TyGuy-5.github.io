@@ -1,0 +1,34 @@
+---
+title: "Tyler Celotta"
+subtitle: "Personal Portfolio"
+image: profile.gif
+image-alt: "Photo of Tyler"
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/TyGuy-5
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tyler-celotta/
+---
+
+A little bit about me and my life. 
+
+## Education
+
+Reed College of Portland \| Oregon \| Sept 2024 - Present
+
+## Experience
+Intern, Mechanical Engineering, Twin Cities Makers -- Minneapolis, MN | Jun 2025 -- Aug 2025
+
+Lifeguard, City of Lino Lakes \& Community Education ISD12 | Jul 2022 -- Aug 2023
+
+Barista, Caribou Coffee | Jun 2024 -- Sept 2025
+
+Van Driver, Reed College | Aug 2024 -- Present
+
+Umpire, Centennial Little League | Feb 2022 -- Jul 2025
+
+Portrait Photographer, Celotta Photos | April 2023 -- Present

@@ -2,5 +2,5 @@
 title: "Post 2"
 format: html
 ---
-
-My post
+### Post 2
+I cant belive you found me lol.
