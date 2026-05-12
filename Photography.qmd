@@ -26,42 +26,74 @@ title: "Photography"
   Varying portrait/landscape orientations creates a beautiful masonry effect.
 -->
 
-<div class="tc-photo-grid">
-  <div class="tc-photo-item">
-    <div class="tc-photo-placeholder" style="min-height: 320px;">Add portrait photo</div>
-    <div class="tc-photo-caption">Session · Location</div>
+<div class="tc-photo-item">
+    <img src="Photos/Images/DSC_0723.JPG" alt="Neon sign in Ireland">
+    <div class="tc-photo-caption">Neon · Ireland</div>
   </div>
+
   <div class="tc-photo-item">
-    <div class="tc-photo-placeholder" style="min-height: 240px;">Add landscape photo</div>
-    <div class="tc-photo-caption">Session · Location</div>
+    <img src="Photos/Images/DSC_1228.JPG" alt="Cappuccino Flower in Ireland">
+    <div class="tc-photo-caption">Flower · Ireland</div>
   </div>
+
   <div class="tc-photo-item">
-    <div class="tc-photo-placeholder" style="min-height: 280px;">Add portrait photo</div>
-    <div class="tc-photo-caption">Session · Location</div>
+    <img src="Photos/Images/IMG_0407.JPG" alt="Moon in the sky over Minnesota">
+    <div class="tc-photo-caption">Moon · Minnesota</div>
   </div>
+
   <div class="tc-photo-item">
-    <div class="tc-photo-placeholder" style="min-height: 200px;">Add square photo</div>
-    <div class="tc-photo-caption">Session · Location</div>
+    <img src="Photos/Images/TC1_1208.JPEG" alt="Big Horned Sheep in Banff National Park">
+    <div class="tc-photo-caption">Bighorn Sheep · Banff, CA</div>
   </div>
+
   <div class="tc-photo-item">
-    <div class="tc-photo-placeholder" style="min-height: 350px;">Add portrait photo</div>
-    <div class="tc-photo-caption">Session · Location</div>
+    <img src="Photos/Images/TC1_1813.JPEG" alt="Jen Celotta biking in Banff">
+    <div class="tc-photo-caption">Biking · Banff, CA</div>
   </div>
+
   <div class="tc-photo-item">
-    <div class="tc-photo-placeholder" style="min-height: 260px;">Add landscape photo</div>
-    <div class="tc-photo-caption">Session · Location</div>
+    <img src="Photos/Images/TC1_1825.JPEG" alt="Squirrel by train tracks in Banff">
+    <div class="tc-photo-caption">Squirrel · Banff, CA</div>
   </div>
+
   <div class="tc-photo-item">
-    <div class="tc-photo-placeholder" style="min-height: 290px;">Add portrait photo</div>
-    <div class="tc-photo-caption">Session · Location</div>
+    <img src="Photos/Images/TC1_2188.JPG" alt="Clark’s Nutcracker in Banff, Alberta">
+    <div class="tc-photo-caption">Clark's Nutcracker · Banff, CA</div>
   </div>
+
   <div class="tc-photo-item">
-    <div class="tc-photo-placeholder" style="min-height: 220px;">Add landscape photo</div>
-    <div class="tc-photo-caption">Session · Location</div>
+    <img src="Photos/Images/TC1_27662.JPEG" alt="Restaurant in Paris, France">
+    <div class="tc-photo-caption">Restaurant · Paris</div>
   </div>
+
   <div class="tc-photo-item">
-    <div class="tc-photo-placeholder" style="min-height: 300px;">Add portrait photo</div>
-    <div class="tc-photo-caption">Session · Location</div>
+    <img src="Photos/Images/TC1_5019.JPG" alt="Statue silhouette in Paris, France">
+    <div class="tc-photo-caption">Statue · Paris</div>
+  </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/TC1_6210.JPEG" alt="Ben Iannini with fire in Lincoln City, Oregon">
+    <div class="tc-photo-caption">Fire · Lincoln City, OR</div>
+  </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/TC1_6745.JPEG" alt="BMW 535i in Portland, Oregon">
+    <div class="tc-photo-caption">BMW 535i · Portland, OR</div>
+  </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/TC1_6826.JPEG" alt="Cape Falcon in Tillamook, Oregon">
+    <div class="tc-photo-caption">Cape Falcon · Tillamook, OR</div>
+  </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/TC1_6925.JPEG" alt="Beach in Tillamook, Oregon">
+    <div class="tc-photo-caption">Beach · Tillamook, OR</div>
+  </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/TC1_7842.JPG" alt="Ten Falls in Portland, Oregon">
+    <div class="tc-photo-caption">Ten Falls · Portland, OR</div>
   </div>
 </div>
 </div>
