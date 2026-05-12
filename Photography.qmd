@@ -4,8 +4,8 @@ title: "Photography"
 
 <div class="tc-page-hero">
 <span class="tc-eyebrow">Celotta Photos</span>
-<div class="tc-page-title">Portrait Photography</div>
-<p class="tc-page-sub">Natural light. Authentic moments. I've been shooting portraits since 2023 with a documentary-influenced eye — finding the real expression between the posed ones.</p>
+<div class="tc-page-title">Photography</div>
+<p class="tc-page-sub">Natural light. Authentic moments. Shooting portraits, travel, and the outdoors since 2023 — with a documentary-influenced eye that looks for what happens between the posed shots.</p>
 </div>
 
 <div class="tc-section">
@@ -13,125 +13,115 @@ title: "Photography"
 <div class="tc-section-title">Recent Work</div>
 <hr class="tc-rule">
 
-<!-- 
-  TO ADD YOUR PHOTOS:
-  Replace each <div class="tc-photo-placeholder"> block with:
-  
-  <div class="tc-photo-item">
-    <img src="photos/your-image.jpg" alt="Description of photo">
-    <div class="tc-photo-caption">Session Title · Location</div>
-  </div>
-  
-  Store your photos in a /photos/ folder next to this file.
-  Varying portrait/landscape orientations creates a beautiful masonry effect.
--->
+<div class="tc-photo-grid">
 
-<div class="tc-photo-item">
-    <img src="Photos/Images/DSC_0723.JPG" alt="Neon sign in Ireland">
-    <div class="tc-photo-caption">Neon · Ireland</div>
+  <div class="tc-photo-item">
+    <img src="Photos/Images/TC1_5019.JPG" alt="Statue silhouette, Paris">
+    <div class="tc-photo-caption">Statue · Paris, France</div>
   </div>
 
   <div class="tc-photo-item">
-    <img src="Photos/Images/DSC_1228.JPG" alt="Cappuccino Flower in Ireland">
-    <div class="tc-photo-caption">Flower · Ireland</div>
-  </div>
-
-  <div class="tc-photo-item">
-    <img src="Photos/Images/IMG_0407.JPG" alt="Moon in the sky over Minnesota">
-    <div class="tc-photo-caption">Moon · Minnesota</div>
-  </div>
-
-  <div class="tc-photo-item">
-    <img src="Photos/Images/TC1_1208.JPEG" alt="Big Horned Sheep in Banff National Park">
-    <div class="tc-photo-caption">Bighorn Sheep · Banff, CA</div>
-  </div>
-
-  <div class="tc-photo-item">
-    <img src="Photos/Images/TC1_1813.JPEG" alt="Jen Celotta biking in Banff">
-    <div class="tc-photo-caption">Biking · Banff, CA</div>
-  </div>
-
-  <div class="tc-photo-item">
-    <img src="Photos/Images/TC1_1825.JPEG" alt="Squirrel by train tracks in Banff">
-    <div class="tc-photo-caption">Squirrel · Banff, CA</div>
-  </div>
-
-  <div class="tc-photo-item">
-    <img src="Photos/Images/TC1_2188.JPG" alt="Clark’s Nutcracker in Banff, Alberta">
-    <div class="tc-photo-caption">Clark's Nutcracker · Banff, CA</div>
-  </div>
-
-  <div class="tc-photo-item">
-    <img src="Photos/Images/TC1_27662.JPEG" alt="Restaurant in Paris, France">
-    <div class="tc-photo-caption">Restaurant · Paris</div>
-  </div>
-
-  <div class="tc-photo-item">
-    <img src="Photos/Images/TC1_5019.JPG" alt="Statue silhouette in Paris, France">
-    <div class="tc-photo-caption">Statue · Paris</div>
-  </div>
-
-  <div class="tc-photo-item">
-    <img src="Photos/Images/TC1_6210.JPEG" alt="Ben Iannini with fire in Lincoln City, Oregon">
+    <img src="Photos/Images/TC1_6210.JPEG" alt="Figure by fire, Lincoln City Oregon">
     <div class="tc-photo-caption">Fire · Lincoln City, OR</div>
   </div>
 
   <div class="tc-photo-item">
-    <img src="Photos/Images/TC1_6745.JPEG" alt="BMW 535i in Portland, Oregon">
-    <div class="tc-photo-caption">BMW 535i · Portland, OR</div>
+    <img src="Photos/Images/TC1_1208.JPEG" alt="Bighorn sheep, Banff National Park">
+    <div class="tc-photo-caption">Bighorn Sheep · Banff, AB</div>
   </div>
 
   <div class="tc-photo-item">
-    <img src="Photos/Images/TC1_6826.JPEG" alt="Cape Falcon in Tillamook, Oregon">
+    <img src="Photos/Images/TC1_6826.JPEG" alt="Cape Falcon headland, Tillamook Oregon">
     <div class="tc-photo-caption">Cape Falcon · Tillamook, OR</div>
   </div>
 
   <div class="tc-photo-item">
-    <img src="Photos/Images/TC1_6925.JPEG" alt="Beach in Tillamook, Oregon">
+    <img src="Photos/Images/TC1_7842.JPG" alt="Silver Falls, Oregon">
+    <div class="tc-photo-caption">Silver Falls · OR</div>
+  </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/TC1_27662.JPEG" alt="Street restaurant, Paris France">
+    <div class="tc-photo-caption">Restaurant · Paris, France</div>
+  </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/TC1_1813.JPEG" alt="Cyclist on trail, Banff">
+    <div class="tc-photo-caption">Biking · Banff, AB</div>
+  </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/TC1_6745.JPEG" alt="BMW 535i, Portland Oregon">
+    <div class="tc-photo-caption">BMW 535i · Portland, OR</div>
+  </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/TC1_2188.JPG" alt="Clark's Nutcracker bird, Banff">
+    <div class="tc-photo-caption">Clark's Nutcracker · Banff, AB</div>
+  </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/DSC_0723.JPG" alt="Neon sign, Ireland">
+    <div class="tc-photo-caption">Neon · Ireland</div>
+  </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/TC1_6925.JPEG" alt="Beach at dusk, Tillamook Oregon">
     <div class="tc-photo-caption">Beach · Tillamook, OR</div>
   </div>
 
   <div class="tc-photo-item">
-    <img src="Photos/Images/TC1_7842.JPG" alt="Ten Falls in Portland, Oregon">
-    <div class="tc-photo-caption">Ten Falls · Portland, OR</div>
+    <img src="Photos/Images/TC1_1825.JPEG" alt="Ground squirrel, Banff">
+    <div class="tc-photo-caption">Squirrel · Banff, AB</div>
   </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/DSC_1228.JPG" alt="Cappuccino art, Ireland">
+    <div class="tc-photo-caption">Coffee · Ireland</div>
+  </div>
+
+  <div class="tc-photo-item">
+    <img src="Photos/Images/IMG_0407.JPG" alt="Moon over Minnesota">
+    <div class="tc-photo-caption">Moon · Minnesota</div>
+  </div>
+
 </div>
 </div>
 
 <div class="tc-section">
-<span class="tc-eyebrow">The Approach</span>
-<div class="tc-section-title">How I shoot</div>
+<span class="tc-eyebrow">Approach</span>
+<div class="tc-section-title">How I Shoot</div>
 <hr class="tc-rule">
 
 <div class="tc-audience-grid">
   <div class="tc-audience-card">
-    <div class="tc-card-icon">☀️</div>
-    <div class="tc-card-audience">Style</div>
+    <span class="tc-card-icon">☀️</span>
+    <span class="tc-card-audience">Style</span>
     <div class="tc-card-title">Natural Light First</div>
     <p class="tc-card-desc">Golden hour, open shade, window light. I work with the environment rather than against it — the world has better lighting than most studios.</p>
   </div>
   <div class="tc-audience-card">
-    <div class="tc-card-icon">🎞️</div>
-    <div class="tc-card-audience">Philosophy</div>
+    <span class="tc-card-icon">🎞️</span>
+    <span class="tc-card-audience">Philosophy</span>
     <div class="tc-card-title">Documentary Eye</div>
-    <p class="tc-card-desc">The best portraits happen between poses. I keep my camera ready for the unguarded moments — the laugh, the glance away, the quiet exhale.</p>
+    <p class="tc-card-desc">The best portraits happen between poses. I keep the camera ready for the unguarded moments — the laugh, the glance away, the quiet exhale.</p>
   </div>
   <div class="tc-audience-card">
-    <div class="tc-card-icon">🗺️</div>
-    <div class="tc-card-audience">Location</div>
+    <span class="tc-card-icon">🗺️</span>
+    <span class="tc-card-audience">Location</span>
     <div class="tc-card-title">Portland & Twin Cities</div>
-    <p class="tc-card-desc">Based in Portland, OR during the school year — Minneapolis / St. Paul in summers. Happy to travel for the right session.</p>
+    <p class="tc-card-desc">Based in Portland, OR during the school year — Minneapolis / St. Paul area in summer. Happy to travel for the right session.</p>
   </div>
   <div class="tc-audience-card">
-    <div class="tc-card-icon">📬</div>
-    <div class="tc-card-audience">Booking</div>
+    <span class="tc-card-icon">📬</span>
+    <span class="tc-card-audience">Booking</span>
     <div class="tc-card-title">Let's Work Together</div>
-    <p class="tc-card-desc">Portraits, events, headshots, outdoor sessions. Reach out via email and we'll figure out the details — no complicated booking forms.</p>
+    <p class="tc-card-desc">Portraits, events, headshots, outdoor sessions. Reach out by email and we'll sort out the details — no complicated booking forms, no surprise fees.</p>
   </div>
 </div>
 </div>
 
 <div style="padding: 1rem 0 2.5rem;">
   <a href="mailto:tylercelotta@reed.edu" class="tc-cta-link tc-cta-filled">Book a Session →</a>
-  <a href="index.qmd" class="tc-cta-link">← Back Home</a>
+  <a href="index.qmd" class="tc-cta-link">← Home</a>
 </div>

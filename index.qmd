@@ -1,7 +1,7 @@
 ---
 title: "Tyler Celotta"
 subtitle: "Physics · Engineering · Photography"
-image: profile.gif
+image: Images/IMG_3685.JPG
 image-alt: "Photo of Tyler"
 about:
   template: marquee
@@ -10,44 +10,49 @@ about:
       text: Email
       href: mailto:tylercelotta@reed.edu
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/TyGuy-5
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/tyler-celotta/
+    - icon: file-earmark-text
+      text: Résumé
+      href: 2-27-26_Resume.pdf
 ---
 
-Physics student at Reed College in a 3/2 dual degree program (BA Physics → BS Mechanical Engineering at Columbia). I build things with my hands, model things with code, photograph people, and spend too much time outdoors — from the shop floor to the backcountry.
+Physics student at Reed College in a 3/2 dual degree program — BA Physics at Reed, BS Mechanical Engineering at Columbia. I build things in the shop, model things in code, photograph people and places, and spend too much time outdoors.
+
+<hr class="tc-double-rule">
 
 <div class="tc-section">
-<span class="tc-eyebrow">What I Do</span>
-<div class="tc-section-title">Built for every kind of curious mind</div>
+<span class="tc-eyebrow">About</span>
+<div class="tc-section-title">What I Do</div>
 <hr class="tc-rule">
 
 <div class="tc-audience-grid">
   <div class="tc-audience-card">
-    <div class="tc-card-icon">⚙️</div>
-    <div class="tc-card-audience">For Professionals</div>
-    <div class="tc-card-title">Engineer in Training</div>
-    <p class="tc-card-desc">Physics + ME dual degree, machining and fabrication, data analysis, and real-world internship experience. See my resume, projects, and certifications.</p>
+    <span class="tc-card-icon">⚙️</span>
+    <span class="tc-card-audience">Engineering</span>
+    <div class="tc-card-title">Fabricator & Analyst</div>
+    <p class="tc-card-desc">Physics and mechanical engineering coursework backed by real shop hours — CNC milling, manual milling, welding, CAD/CAM, and precision metrology. I hold tolerances and take measurement seriously.</p>
   </div>
   <div class="tc-audience-card">
-    <div class="tc-card-icon">🔬</div>
-    <div class="tc-card-audience">For Collaborators</div>
-    <div class="tc-card-title">Technical Problem Solver</div>
-    <p class="tc-card-desc">Python, R, CAD/CAM, CNC programming, and experimental design. I work best on messy, real-world problems that need both rigor and hands-on intuition.</p>
+    <span class="tc-card-icon">🔬</span>
+    <span class="tc-card-audience">Data & Code</span>
+    <div class="tc-card-title">Python & R Analyst</div>
+    <p class="tc-card-desc">Mathematical modeling, graphical analysis, and data pipelines in Python and R. I've applied these tools to physics lab work, a national math modeling competition, and cost-benefit modeling for public infrastructure proposals.</p>
   </div>
   <div class="tc-audience-card">
-    <div class="tc-card-icon">📷</div>
-    <div class="tc-card-audience">For Creatives</div>
+    <span class="tc-card-icon">📷</span>
+    <span class="tc-card-audience">Photography</span>
     <div class="tc-card-title">Portrait Photographer</div>
-    <p class="tc-card-desc">Capturing natural light and authentic moments in portrait sessions since 2023. Operated under Celotta Photos with a documentary-influenced eye.</p>
+    <p class="tc-card-desc">Operating as Celotta Photos since 2023. Documentary-influenced eye, natural light, authentic moments. Based in Portland during the school year, Twin Cities in summer.</p>
   </div>
   <div class="tc-audience-card">
-    <div class="tc-card-icon">🌲</div>
-    <div class="tc-card-audience">For Peers</div>
-    <div class="tc-card-title">Maker, Scout & Writer</div>
-    <p class="tc-card-desc">Eagle Scout, outdoor enthusiast, and community builder. The blog tracks personal projects, adventures, and the occasional deep dive into something interesting.</p>
+    <span class="tc-card-icon">🌲</span>
+    <span class="tc-card-audience">Community</span>
+    <div class="tc-card-title">Eagle Scout & Leader</div>
+    <p class="tc-card-desc">Eagle Scout (BSA, 2023). Led a 22-person river rafting Odyssey trip as a certified Wilderness First Responder. Active in public awareness work and community service.</p>
   </div>
 </div>
 </div>
@@ -63,21 +68,21 @@ Physics student at Reed College in a 3/2 dual degree program (BA Physics → BS 
   </div>
   <div>
     <div class="tc-stat-number">5+</div>
-    <div class="tc-stat-label">Years of<br>Leadership</div>
+    <div class="tc-stat-label">Years<br>Leadership</div>
   </div>
   <div>
     <div class="tc-stat-number">OSHA 10</div>
     <div class="tc-stat-label">Safety<br>Certified</div>
   </div>
   <div>
-    <div class="tc-stat-number">Eagle</div>
-    <div class="tc-stat-label">BSA Highest<br>Rank</div>
+    <div class="tc-stat-number">WFR</div>
+    <div class="tc-stat-label">Wilderness<br>First Responder</div>
   </div>
 </div>
 
 <div class="tc-section">
 <span class="tc-eyebrow">Experience</span>
-<div class="tc-section-title">Where I've been</div>
+<div class="tc-section-title">Where I've Worked</div>
 <hr class="tc-rule">
 
 <div class="tc-timeline">
@@ -85,25 +90,31 @@ Physics student at Reed College in a 3/2 dual degree program (BA Physics → BS 
     <div class="tc-tl-date">Jun 2025 – Aug 2025</div>
     <div class="tc-tl-role">Mechanical Engineering Intern</div>
     <div class="tc-tl-org">Twin Cities Makers · Minneapolis, MN</div>
-    <div class="tc-tl-desc">Designed a 15-hour machining curriculum covering manual milling, lathe turning, and CNC programming [cite: 55]; built a two-stage evaporative cooling prototype [cite: 56]; fabricated precision tooling by hand holding a non-sparking propane regulator wrench to ±0.003″ tolerance[cite: 57].</div>
+    <div class="tc-tl-desc">Designed and delivered a 15-hour machining curriculum covering manual milling, lathe turning, and CNC programming. Built a two-stage evaporative cooling prototype achieving ΔT = 5°F at 60% relative humidity. Fabricated a non-sparking propane regulator wrench on a manual mill, holding ±0.003″ tolerance throughout. Installed and maintained shop equipment, facilitated community engagement nights, and helped members troubleshoot mechanical problems.</div>
   </div>
   <div class="tc-timeline-item">
-    <div class="tc-tl-date">Jan 2024 – Present</div>
-    <div class="tc-tl-role">BA Physics Student</div>
+    <div class="tc-tl-date">Aug 2025 – Present</div>
+    <div class="tc-tl-role">Night Bus Driver</div>
     <div class="tc-tl-org">Reed College · Portland, OR</div>
-    <div class="tc-tl-desc">3/2 Dual Degree program toward BS Mechanical Engineering at Columbia University[cite: 79]. Awarded the Summer Internship Award (SIA) for public sector contributions.</div>
+    <div class="tc-tl-desc">Operate scheduled late-night routes for students and staff across Southeast Portland. Manage vehicle safety checks, mileage logs, and coordination with community safety officers.</div>
+  </div>
+  <div class="tc-timeline-item">
+    <div class="tc-tl-date">Aug 2025 – Sep 2025</div>
+    <div class="tc-tl-role">Odyssey Trip Leader</div>
+    <div class="tc-tl-org">Reed College · Deschutes River, OR</div>
+    <div class="tc-tl-desc">Planned, organized, and led a river rafting trip for 22 incoming first-year students on the Deschutes River, operating as a certified Wilderness First Responder throughout.</div>
   </div>
   <div class="tc-timeline-item">
     <div class="tc-tl-date">Oct 2023</div>
     <div class="tc-tl-role">Engineering Job Shadow</div>
     <div class="tc-tl-org">Medtronic · Minneapolis, MN</div>
-    <div class="tc-tl-desc">Shadowed six biomedical engineers on pacemaker systems R&D; observed live surgery for procedural analysis[cite: 60]. Discussed materials and testing protocols for medical-grade components under NDA[cite: 61].</div>
+    <div class="tc-tl-desc">Shadowed six biomedical engineers on pacemaker systems R&D. Observed live surgery for procedural analysis and discussed materials and testing protocols for medical-grade components under NDA.</div>
   </div>
   <div class="tc-timeline-item">
     <div class="tc-tl-date">Nov 2021 – Mar 2022</div>
     <div class="tc-tl-role">Grant Writer</div>
     <div class="tc-tl-org">Centennial School District · Lino Lakes, MN</div>
-    <div class="tc-tl-desc">Co-drafted a diesel-to-electric bus fleet conversion proposal [cite: 64]; executed a 30-year cost-benefit analysis using state data and Excel financial modeling[cite: 65, 66].</div>
+    <div class="tc-tl-desc">Co-drafted a grant proposal for a diesel-to-electric school bus fleet conversion. Executed a 30-year cost-benefit analysis using Minnesota state energy data and Excel financial modeling.</div>
   </div>
 </div>
 </div>
@@ -114,30 +125,34 @@ Physics student at Reed College in a 3/2 dual degree program (BA Physics → BS 
 <hr class="tc-rule">
 
 <div class="tc-skill-block">
-  <div class="tc-skill-label">Programming & Data</div>
+  <span class="tc-skill-label">Programming & Data</span>
   <div class="tc-tags">
-    <span class="tc-tag tc-tag-hi">Python (Math Modeling & Graphical Analysis)</span>
+    <span class="tc-tag tc-tag-hi">Python</span>
     <span class="tc-tag tc-tag-hi">R</span>
-    <span class="tc-tag">Excel & Minitab</span>
+    <span class="tc-tag">Excel</span>
+    <span class="tc-tag">Minitab</span>
+    <span class="tc-tag">Data Visualization</span>
+    <span class="tc-tag">Mathematical Modeling</span>
+    <span class="tc-tag">Statistical Analysis</span>
   </div>
-  <p class="tc-proj-desc" style="margin-top: 0.8rem; font-size: 0.85rem;"><em>Workflow Note:</em> Code doesn't just live on a desktop; I frequently prototype and iterate Python scripts on the go using environments like Carnets Plus.</p>
 </div>
 
 <div class="tc-skill-block">
-  <div class="tc-skill-label">Fabrication & Design</div>
+  <span class="tc-skill-label">Fabrication & Design</span>
   <div class="tc-tags">
-    <span class="tc-tag tc-tag-hi">Fusion 360 (CAD/CAM)</span>
+    <span class="tc-tag tc-tag-hi">Autodesk Fusion 360 (CAD/CAM)</span>
     <span class="tc-tag tc-tag-hi">CNC Milling (2.5 & 3-axis)</span>
-    <span class="tc-tag">Manual Milling (Rotary Vise)</span>
+    <span class="tc-tag tc-tag-hi">Manual Milling</span>
+    <span class="tc-tag">Lathe Turning</span>
     <span class="tc-tag">MIG / TIG / Stick Welding</span>
+    <span class="tc-tag">G-code</span>
     <span class="tc-tag">Equipment Calibration</span>
     <span class="tc-tag">Small Engine Repair</span>
   </div>
 </div>
-</div>
 
 <div class="tc-skill-block">
-  <div class="tc-skill-label">Certifications</div>
+  <span class="tc-skill-label">Certifications</span>
   <div class="tc-tags">
     <span class="tc-tag tc-tag-hi">OSHA 10</span>
     <span class="tc-tag tc-tag-hi">WFR (Wilderness First Responder)</span>
@@ -146,18 +161,14 @@ Physics student at Reed College in a 3/2 dual degree program (BA Physics → BS 
     <span class="tc-tag">Lifeguard (2022)</span>
   </div>
 </div>
-
-<div class="tc-skill-block">
-  <div class="tc-skill-label">Languages</div>
-  <div class="tc-tags">
-    <span class="tc-tag">English (native)</span>
-    <span class="tc-tag">Quarto / R Markdown</span>
-    <span class="tc-tag">G-code (CNC)</span>
-  </div>
-</div>
 </div>
 
-<div style="padding: 1.5rem 0 2.5rem;">
+<div class="tc-resume-row">
+  <span class="tc-resume-label">Full résumé available for download</span>
+  <a href="2-27-26_Resume.pdf" class="tc-cta-link tc-cta-filled" target="_blank">Download Résumé →</a>
+</div>
+
+<div style="padding: 1rem 0 2.5rem;">
   <a href="Portfolio.qmd" class="tc-cta-link tc-cta-filled">View Portfolio →</a>
   <a href="Photography.qmd" class="tc-cta-link">Photography</a>
   <a href="Blog.qmd" class="tc-cta-link">Blog</a>

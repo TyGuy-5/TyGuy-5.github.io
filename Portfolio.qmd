@@ -5,22 +5,22 @@ title: "Portfolio"
 <div class="tc-page-hero">
 <span class="tc-eyebrow">Work</span>
 <div class="tc-page-title">Projects & Portfolio</div>
-<p class="tc-page-sub">Engineering projects, data analysis, fabrication work, and community initiatives. A cross-section of what I've built, modeled, and shipped.</p>
+<p class="tc-page-sub">Engineering, fabrication, data analysis, and community work. A cross-section of what I've built, modeled, and shipped.</p>
 </div>
 
 <div class="tc-section">
 <span class="tc-eyebrow">Engineering & Fabrication</span>
-<div class="tc-section-title">Built with hands & machines</div>
+<div class="tc-section-title">Built with hands and machines</div>
 <hr class="tc-rule">
 
 <div class="tc-project-grid">
   <div class="tc-project-card">
     <div class="tc-proj-header">
-      <div class="tc-proj-tag">Thermal Engineering</div>
+      <span class="tc-proj-tag">Thermal Engineering</span>
       <div class="tc-proj-title">Two-Stage Evaporative Cooler</div>
     </div>
     <div class="tc-proj-body">
-      <p class="tc-proj-desc">Designed and built a two-stage evaporative cooling prototype achieving ΔT = 5°F at 60% relative humidity — a meaningful cooling margin in real-world conditions.</p>
+      <p class="tc-proj-desc">Designed and built a two-stage evaporative cooling prototype achieving ΔT = 5°F at 60% relative humidity — a meaningful cooling margin under real-world conditions. Fixed budget, built from scratch.</p>
     </div>
     <div class="tc-proj-chips">
       <span class="tc-chip">Fusion 360</span>
@@ -28,17 +28,17 @@ title: "Portfolio"
       <span class="tc-chip">Prototyping</span>
     </div>
     <div class="tc-proj-links">
-      <a href="#">Details</a>
+      <a href="mailto:tylercelotta@reed.edu">Request Details</a>
     </div>
   </div>
 
   <div class="tc-project-card">
     <div class="tc-proj-header">
-      <div class="tc-proj-tag">Precision Machining</div>
+      <span class="tc-proj-tag">Precision Machining</span>
       <div class="tc-proj-title">Non-Sparking Propane Wrench</div>
     </div>
     <div class="tc-proj-body">
-      <p class="tc-proj-desc">Fabricated a non-sparking propane regulator wrench entirely by hand on a manual mill, holding ±0.003″ tolerance throughout. A study in setup, patience, and measurement.</p>
+      <p class="tc-proj-desc">Fabricated a non-sparking propane regulator wrench entirely by hand on a manual mill, holding ±0.003″ tolerance throughout. Material selected for spark-resistance in flammable environments. A study in setup, patience, and measurement.</p>
     </div>
     <div class="tc-proj-chips">
       <span class="tc-chip">Manual Mill</span>
@@ -46,25 +46,26 @@ title: "Portfolio"
       <span class="tc-chip">Material Selection</span>
     </div>
     <div class="tc-proj-links">
-      <a href="#">Details</a>
+      <a href="mailto:tylercelotta@reed.edu">Request Details</a>
     </div>
   </div>
 
   <div class="tc-project-card">
     <div class="tc-proj-header">
-      <div class="tc-proj-tag">Curriculum Design</div>
+      <span class="tc-proj-tag">Curriculum Design</span>
       <div class="tc-proj-title">15-Hour Machining Curriculum</div>
     </div>
     <div class="tc-proj-body">
-      <p class="tc-proj-desc">Designed and implemented a comprehensive 15-hour curriculum covering manual milling, lathe turning, and CNC programming for the Twin Cities Makers community shop.</p>
+      <p class="tc-proj-desc">Designed and implemented a comprehensive 15-hour curriculum covering manual milling, lathe turning, CAD/CAM development in Fusion 360, and CNC milling for the Twin Cities Makers community shop. Created instructional materials, delivered sessions, and iterated based on participant feedback.</p>
     </div>
     <div class="tc-proj-chips">
       <span class="tc-chip">CNC</span>
       <span class="tc-chip">Lathe</span>
+      <span class="tc-chip">Fusion 360</span>
       <span class="tc-chip">Education</span>
     </div>
     <div class="tc-proj-links">
-      <a href="#">Details</a>
+      <a href="mailto:tylercelotta@reed.edu">Request Details</a>
     </div>
   </div>
 </div>
@@ -78,11 +79,11 @@ title: "Portfolio"
 <div class="tc-project-grid">
   <div class="tc-project-card">
     <div class="tc-proj-header">
-      <div class="tc-proj-tag">Policy / Finance</div>
+      <span class="tc-proj-tag">Policy & Finance</span>
       <div class="tc-proj-title">Electric Bus Fleet Conversion</div>
     </div>
     <div class="tc-proj-body">
-      <p class="tc-proj-desc">30-year cost-benefit analysis for a diesel-to-electric school bus fleet conversion. Built a financial model in Excel using MN state energy data; co-authored the formal grant proposal.</p>
+      <p class="tc-proj-desc">30-year cost-benefit analysis for a diesel-to-electric school bus fleet conversion for Centennial School District, MN. Built a financial model in Excel using state energy data and co-authored the formal grant proposal submitted to the district.</p>
     </div>
     <div class="tc-proj-chips">
       <span class="tc-chip">Excel</span>
@@ -90,17 +91,17 @@ title: "Portfolio"
       <span class="tc-chip">Grant Writing</span>
     </div>
     <div class="tc-proj-links">
-      <a href="#">Details</a>
+      <a href="mailto:tylercelotta@reed.edu">Request Details</a>
     </div>
   </div>
 
   <div class="tc-project-card">
     <div class="tc-proj-header">
-      <div class="tc-proj-tag">Competition</div>
-      <div class="tc-proj-title">M3 Challenge Math Modeling</div>
+      <span class="tc-proj-tag">Competition · 2023</span>
+      <div class="tc-proj-title">M3 Math Modeling Challenge</div>
     </div>
     <div class="tc-proj-body">
-      <p class="tc-proj-desc">Recognized for analytical clarity and team methodology in the MathWorks Math Modeling Challenge (2023). Applied differential equations and statistical modeling under a 14-hour constraint.</p>
+      <p class="tc-proj-desc">Recognized for analytical clarity and team methodology in the MathWorks Math Modeling Challenge. Applied differential equations and statistical modeling to analyze housing supply and homelessness trends in Seattle and Albuquerque under a 14-hour competition constraint.</p>
     </div>
     <div class="tc-proj-chips">
       <span class="tc-chip">Python</span>
@@ -108,68 +109,87 @@ title: "Portfolio"
       <span class="tc-chip">Statistics</span>
     </div>
     <div class="tc-proj-links">
-      <a href="#">Details</a>
+      <a href="mailto:tylercelotta@reed.edu">Request Details</a>
     </div>
   </div>
 
   <div class="tc-project-card">
     <div class="tc-proj-header">
-      <div class="tc-proj-tag">Coming Soon</div>
+      <span class="tc-proj-tag">In Progress</span>
       <div class="tc-proj-title">Physics Lab Analyses</div>
     </div>
     <div class="tc-proj-body">
-      <p class="tc-proj-desc">Computational analyses from Reed Physics coursework — data reduction, uncertainty quantification, and graphical analysis using Python and R. Posts coming to the blog.</p>
+      <p class="tc-proj-desc">Computational analyses from Reed Physics coursework — data reduction, uncertainty quantification, and graphical analysis in Python and R. Posts and write-ups coming to the blog as work is completed and cleared to share.</p>
     </div>
     <div class="tc-proj-chips">
       <span class="tc-chip">Python</span>
       <span class="tc-chip">R</span>
-      <span class="tc-chip">Graphical Analysis</span>
+      <span class="tc-chip">Uncertainty Analysis</span>
     </div>
     <div class="tc-proj-links">
-      <a href="Blog.qmd">Blog</a>
+      <a href="Blog.qmd">Blog →</a>
     </div>
   </div>
 </div>
 </div>
 
 <div class="tc-section">
-<span class="tc-eyebrow">Community</span>
+<span class="tc-eyebrow">Leadership & Service</span>
 <div class="tc-section-title">Beyond the lab bench</div>
 <hr class="tc-rule">
 
 <div class="tc-project-grid">
   <div class="tc-project-card">
     <div class="tc-proj-header">
-      <div class="tc-proj-tag">Eagle Scout Project</div>
+      <span class="tc-proj-tag">Eagle Scout · 2023</span>
       <div class="tc-proj-title">BSA Eagle Scout Service Project</div>
     </div>
     <div class="tc-proj-body">
-      <p class="tc-proj-desc">Capstone community service project required for Scouting's highest rank — planned, resourced, and led a team of volunteers to deliver a lasting community benefit.</p>
+      <p class="tc-proj-desc">Capstone community service project required for Scouting's highest rank — planned, resourced, and led a team of volunteers to deliver a lasting community benefit. Responsible for full project management from proposal through completion.</p>
     </div>
     <div class="tc-proj-chips">
       <span class="tc-chip">Leadership</span>
       <span class="tc-chip">Project Management</span>
-      <span class="tc-chip">Community Service</span>
+      <span class="tc-chip">Volunteer Coordination</span>
     </div>
     <div class="tc-proj-links">
-      <a href="#">Details</a>
+      <a href="mailto:tylercelotta@reed.edu">Request Details</a>
     </div>
   </div>
 
   <div class="tc-project-card">
     <div class="tc-proj-header">
-      <div class="tc-proj-tag">Public Awareness</div>
-      <div class="tc-proj-title">Arrive Alive Program</div>
+      <span class="tc-proj-tag">Odyssey Trip Leader · 2025</span>
+      <div class="tc-proj-title">Reed College River Rafting Trip</div>
     </div>
     <div class="tc-proj-body">
-      <p class="tc-proj-desc">Contributed to the Arrive Alive impaired-driving awareness campaign. Outreach, education, and community engagement work around road safety in Minnesota.</p>
+      <p class="tc-proj-desc">Planned and led a multi-day river rafting trip for 22 incoming Reed first-year students on the Deschutes River as a certified Wilderness First Responder. Responsible for logistics, safety protocols, and group management.</p>
+    </div>
+    <div class="tc-proj-chips">
+      <span class="tc-chip">WFR</span>
+      <span class="tc-chip">Logistics</span>
+      <span class="tc-chip">Group Leadership</span>
+    </div>
+    <div class="tc-proj-links">
+      <a href="mailto:tylercelotta@reed.edu">Request Details</a>
+    </div>
+  </div>
+
+  <div class="tc-project-card">
+    <div class="tc-proj-header">
+      <span class="tc-proj-tag">Public Awareness</span>
+      <div class="tc-proj-title">Arrive Alive · Save The Boundary Waters</div>
+    </div>
+    <div class="tc-proj-body">
+      <p class="tc-proj-desc">Contributed to the Arrive Alive impaired-driving awareness program and the Save The Boundary Waters conservation campaign — outreach, education, and community engagement around road safety and wilderness preservation in Minnesota.</p>
     </div>
     <div class="tc-proj-chips">
       <span class="tc-chip">Outreach</span>
       <span class="tc-chip">Public Safety</span>
+      <span class="tc-chip">Conservation</span>
     </div>
     <div class="tc-proj-links">
-      <a href="#">Details</a>
+      <a href="mailto:tylercelotta@reed.edu">Request Details</a>
     </div>
   </div>
 </div>
@@ -181,7 +201,7 @@ title: "Portfolio"
 <hr class="tc-rule">
 
 <div class="tc-skill-block">
-  <div class="tc-skill-label">Programming & Data</div>
+  <span class="tc-skill-label">Programming & Data</span>
   <div class="tc-tags">
     <span class="tc-tag tc-tag-hi">Python</span>
     <span class="tc-tag tc-tag-hi">R</span>
@@ -194,9 +214,9 @@ title: "Portfolio"
 </div>
 
 <div class="tc-skill-block">
-  <div class="tc-skill-label">CAD & Fabrication</div>
+  <span class="tc-skill-label">CAD & Fabrication</span>
   <div class="tc-tags">
-    <span class="tc-tag tc-tag-hi">Autodesk Fusion 360</span>
+    <span class="tc-tag tc-tag-hi">Autodesk Fusion 360 (CAD/CAM)</span>
     <span class="tc-tag tc-tag-hi">CNC Milling (2.5 & 3-axis)</span>
     <span class="tc-tag tc-tag-hi">Manual Milling (rotary vise)</span>
     <span class="tc-tag">Lathe Turning</span>
@@ -204,15 +224,15 @@ title: "Portfolio"
     <span class="tc-tag">TIG Welding</span>
     <span class="tc-tag">Stick Welding</span>
     <span class="tc-tag">G-code</span>
-    <span class="tc-tag">Equipment Calibration</span>
+    <span class="tc-tag">Equipment Calibration & Maintenance</span>
   </div>
 </div>
 
 <div class="tc-skill-block">
-  <div class="tc-skill-label">Safety & Certifications</div>
+  <span class="tc-skill-label">Safety & Certifications</span>
   <div class="tc-tags">
     <span class="tc-tag tc-tag-hi">OSHA 10</span>
-    <span class="tc-tag tc-tag-hi">WFR</span>
+    <span class="tc-tag tc-tag-hi">WFR (Wilderness First Responder)</span>
     <span class="tc-tag">First Aid</span>
     <span class="tc-tag">CPR</span>
     <span class="tc-tag">Epinephrine (2025)</span>
@@ -221,13 +241,13 @@ title: "Portfolio"
 </div>
 
 <div class="tc-skill-block">
-  <div class="tc-skill-label">Soft Skills</div>
+  <span class="tc-skill-label">Communication & Leadership</span>
   <div class="tc-tags">
     <span class="tc-tag">Curriculum Design</span>
     <span class="tc-tag">Technical Writing</span>
     <span class="tc-tag">Grant Writing</span>
     <span class="tc-tag">Team Leadership</span>
-    <span class="tc-tag">Shop Teaching</span>
+    <span class="tc-tag">Shop Instruction</span>
     <span class="tc-tag">Community Facilitation</span>
   </div>
 </div>
@@ -235,5 +255,5 @@ title: "Portfolio"
 
 <div style="padding: 1rem 0 2.5rem;">
   <a href="mailto:tylercelotta@reed.edu" class="tc-cta-link tc-cta-filled">Get in Touch →</a>
-  <a href="index.qmd" class="tc-cta-link">← Back Home</a>
+  <a href="index.qmd" class="tc-cta-link">← Home</a>
 </div>

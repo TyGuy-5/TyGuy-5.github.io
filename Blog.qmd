@@ -1,8 +1,15 @@
 ---
-title: "My Blog"
-format: html
+title: "Writing"
 listing:
-    contents: Posts
+  contents: Posts
+  sort: "date desc"
+  type: default
+  fields: [date, title, description]
 editor: source
 ---
 
+<div class="tc-page-hero">
+<span class="tc-eyebrow">Writing</span>
+<div class="tc-page-title">Notes & Projects</div>
+<p class="tc-page-sub">Physics lab write-ups, project documentation, occasional opinions on things that interest me. Infrequent but deliberate.</p>
+</div>

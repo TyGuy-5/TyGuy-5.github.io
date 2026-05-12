@@ -30,3 +30,5 @@ format: html
 ![Beach - Tillamook, Oregon - Shot on Nikon Z7II ](Images/TC1_6925.JPEG)
 
 ![Ten Falls - Portland, OR - Shot Nikon Z7II ](Images/TC1_7842.JPG)
+
+![Profile Pic](Images/IMG_3685.JPG)
