@@ -11,7 +11,7 @@ website:
   navbar:
     right:
       - text: Home
-        href: Homepage.qmd
+        href: index.qmd
       - text: Portfolio
         href: Portfolio.qmd
       - text: Photography

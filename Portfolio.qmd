@@ -235,5 +235,5 @@ title: "Portfolio"
 
 <div style="padding: 1rem 0 2.5rem;">
   <a href="mailto:tylercelotta@reed.edu" class="tc-cta-link tc-cta-filled">Get in Touch →</a>
-  <a href="Homepage.qmd" class="tc-cta-link">← Back Home</a>
+  <a href="index.qmd" class="tc-cta-link">← Back Home</a>
 </div>
