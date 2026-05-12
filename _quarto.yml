@@ -3,21 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "Celotta's Portfolio"
+  title: "Tyler Celotta"
   search: false
-  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
-  page-footer: "612-388-8813"
+  open-graph: true
+  page-footer:
+    center: "Tyler Celotta · Portland, OR · [tylercelotta@reed.edu](mailto:tylercelotta@reed.edu)"
   navbar:
     right:
       - text: Home
         href: Homepage.qmd
-      - text: Blog
-        href: Blog.qmd
       - text: Portfolio
         href: Portfolio.qmd
-    tools: 
+      - text: Photography
+        href: Photography.qmd
+      - text: Blog
+        href: Blog.qmd
+    tools:
       - icon: github
-        text: Github
+        text: GitHub
         href: https://github.com/TyGuy-5
       - icon: linkedin
         text: LinkedIn
@@ -27,6 +30,8 @@ format:
   html:
     respect-user-color-scheme: true
     theme:
-      light: flatly
-      dark: darkly
-
+      light:  [flatly,  styles.scss]
+      dark:   [darkly,  styles.scss]
+    smooth-scroll: true
+    page-layout: article
+    toc: false

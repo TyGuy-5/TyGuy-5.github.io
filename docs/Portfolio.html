@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>My Portfolio – Celotta’s Portfolio</title>
+<title>Portfolio – Tyler Celotta</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,8 +25,6 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -35,14 +33,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-4d9afe2b8d18ee9fa5d0d57b5ed4214d.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-c30f8a2a8395b0cf768b2d3296ca5edc.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-6aa1268d7aef3e8f441aa7963bad6b00.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-c30f8a2a8395b0cf768b2d3296ca5edc.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f93c2b1f3f0577f377aefa4848a86a36.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-0d4a9d19931feb4fee1ddab4b2489000.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-f93c2b1f3f0577f377aefa4848a86a36.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-7229465f281ef23a76c5379dd8005dd7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-0144384ec30533ae5f42737378fe5335.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-7229465f281ef23a76c5379dd8005dd7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -58,68 +56,11 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
+<style>html{ scroll-behavior: smooth; }</style>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<meta property="og:title" content="My Portfolio – Celotta’s Portfolio">
-<meta property="og:site_name" content="Celotta's Portfolio">
+<meta property="og:title" content="Portfolio – Tyler Celotta">
+<meta property="og:site_name" content="Tyler Celotta">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -301,7 +242,7 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Celotta’s Portfolio</span>
+    <span class="navbar-title">Tyler Celotta</span>
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -314,17 +255,21 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Blog.html"> 
-<span class="menu-text">Blog</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link active" href="./Portfolio.html" aria-current="page"> 
 <span class="menu-text">Portfolio</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Photography.html"> 
+<span class="menu-text">Photography</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Blog.html"> 
+<span class="menu-text">Blog</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools tools-wide">
-    <a href="https://github.com/TyGuy-5" title="Github" class="quarto-navigation-tool px-1" aria-label="Github"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/TyGuy-5" title="GitHub" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
     <a href="https://www.linkedin.com/in/tyler-celotta" title="LinkedIn" class="quarto-navigation-tool px-1" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
@@ -342,7 +287,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">My Portfolio</h1>
+<h1 class="title">Portfolio</h1>
 </div>
 
 
@@ -359,36 +304,251 @@ window.Quarto = {
 </header>
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1777580018076" data-listing-reading-time-sort="1" data-listing-word-count-sort="139">
-<div class="thumbnail"><a href="./Photos/photos.html" class="no-external">
-
-<p class="card-img-top"><img src="Photos/Images/DSC_0723.JPG"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<div class="delink listing-description"><a href="./Photos/photos.html" class="no-external">
-
-<figure class="figure">
-<p></p>
-<figcaption>Neon - Ireland - Shot on Nikon D40</figcaption>
-</figure>
-
-</a></div>
+<div class="tc-page-hero">
+<span class="tc-eyebrow">Work</span>
+<div class="tc-page-title">
+Projects &amp; Portfolio
 </div>
-<div class="metadata">
-<a href="./Photos/photos.html" class="no-external">
-</a>
+<p class="tc-page-sub">
+Engineering projects, data analysis, fabrication work, and community initiatives. A cross-section of what I’ve built, modeled, and shipped.
+</p>
+</div>
+<div class="tc-section">
+<span class="tc-eyebrow">Engineering &amp; Fabrication</span>
+<div class="tc-section-title">
+Built with hands &amp; machines
+</div>
+<hr class="tc-rule">
+<div class="tc-project-grid">
+<div class="tc-project-card">
+<pre><code>&lt;div class="tc-proj-header"&gt;
+  &lt;div class="tc-proj-tag"&gt;Thermal Engineering&lt;/div&gt;
+  &lt;div class="tc-proj-title"&gt;Two-Stage Evaporative Cooler&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-body"&gt;
+  &lt;p class="tc-proj-desc"&gt;Designed and built a two-stage evaporative cooling prototype achieving ΔT = 5°F at 60% relative humidity — a meaningful cooling margin in real-world conditions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-chips"&gt;
+  &lt;span class="tc-chip"&gt;Fusion 360&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Thermodynamics&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Prototyping&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-links"&gt;
+  &lt;a href="#"&gt;Details&lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<div class="tc-project-card">
+<pre><code>&lt;div class="tc-proj-header"&gt;
+  &lt;div class="tc-proj-tag"&gt;Precision Machining&lt;/div&gt;
+  &lt;div class="tc-proj-title"&gt;Non-Sparking Propane Wrench&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-body"&gt;
+  &lt;p class="tc-proj-desc"&gt;Fabricated a non-sparking propane regulator wrench entirely by hand on a manual mill, holding ±0.003″ tolerance throughout. A study in setup, patience, and measurement.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-chips"&gt;
+  &lt;span class="tc-chip"&gt;Manual Mill&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Metrology&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Material Selection&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-links"&gt;
+  &lt;a href="#"&gt;Details&lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<div class="tc-project-card">
+<pre><code>&lt;div class="tc-proj-header"&gt;
+  &lt;div class="tc-proj-tag"&gt;Curriculum Design&lt;/div&gt;
+  &lt;div class="tc-proj-title"&gt;15-Hour Machining Curriculum&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-body"&gt;
+  &lt;p class="tc-proj-desc"&gt;Designed and implemented a comprehensive 15-hour curriculum covering manual milling, lathe turning, and CNC programming for the Twin Cities Makers community shop.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-chips"&gt;
+  &lt;span class="tc-chip"&gt;CNC&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Lathe&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Education&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-links"&gt;
+  &lt;a href="#"&gt;Details&lt;/a&gt;
+&lt;/div&gt;</code></pre>
 </div>
 </div>
 </div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+<div class="tc-section">
+<span class="tc-eyebrow">Data &amp; Analysis</span>
+<div class="tc-section-title">
+Models, code, and results
+</div>
+<hr class="tc-rule">
+<div class="tc-project-grid">
+<div class="tc-project-card">
+<pre><code>&lt;div class="tc-proj-header"&gt;
+  &lt;div class="tc-proj-tag"&gt;Policy / Finance&lt;/div&gt;
+  &lt;div class="tc-proj-title"&gt;Electric Bus Fleet Conversion&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-body"&gt;
+  &lt;p class="tc-proj-desc"&gt;30-year cost-benefit analysis for a diesel-to-electric school bus fleet conversion. Built a financial model in Excel using MN state energy data; co-authored the formal grant proposal.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-chips"&gt;
+  &lt;span class="tc-chip"&gt;Excel&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Cost-Benefit Analysis&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Grant Writing&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-links"&gt;
+  &lt;a href="#"&gt;Details&lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<div class="tc-project-card">
+<pre><code>&lt;div class="tc-proj-header"&gt;
+  &lt;div class="tc-proj-tag"&gt;Competition&lt;/div&gt;
+  &lt;div class="tc-proj-title"&gt;M3 Challenge Math Modeling&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-body"&gt;
+  &lt;p class="tc-proj-desc"&gt;Recognized for analytical clarity and team methodology in the MathWorks Math Modeling Challenge (2023). Applied differential equations and statistical modeling under a 14-hour constraint.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-chips"&gt;
+  &lt;span class="tc-chip"&gt;Python&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Differential Equations&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Statistics&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-links"&gt;
+  &lt;a href="#"&gt;Details&lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<div class="tc-project-card">
+<pre><code>&lt;div class="tc-proj-header"&gt;
+  &lt;div class="tc-proj-tag"&gt;Coming Soon&lt;/div&gt;
+  &lt;div class="tc-proj-title"&gt;Physics Lab Analyses&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-body"&gt;
+  &lt;p class="tc-proj-desc"&gt;Computational analyses from Reed Physics coursework — data reduction, uncertainty quantification, and graphical analysis using Python and R. Posts coming to the blog.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-chips"&gt;
+  &lt;span class="tc-chip"&gt;Python&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;R&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Graphical Analysis&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-links"&gt;
+  &lt;a href="Blog.qmd"&gt;Blog&lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+</div>
+</div>
+<div class="tc-section">
+<span class="tc-eyebrow">Community</span>
+<div class="tc-section-title">
+Beyond the lab bench
+</div>
+<hr class="tc-rule">
+<div class="tc-project-grid">
+<div class="tc-project-card">
+<pre><code>&lt;div class="tc-proj-header"&gt;
+  &lt;div class="tc-proj-tag"&gt;Eagle Scout Project&lt;/div&gt;
+  &lt;div class="tc-proj-title"&gt;BSA Eagle Scout Service Project&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-body"&gt;
+  &lt;p class="tc-proj-desc"&gt;Capstone community service project required for Scouting's highest rank — planned, resourced, and led a team of volunteers to deliver a lasting community benefit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-chips"&gt;
+  &lt;span class="tc-chip"&gt;Leadership&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Project Management&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Community Service&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-links"&gt;
+  &lt;a href="#"&gt;Details&lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<div class="tc-project-card">
+<pre><code>&lt;div class="tc-proj-header"&gt;
+  &lt;div class="tc-proj-tag"&gt;Public Awareness&lt;/div&gt;
+  &lt;div class="tc-proj-title"&gt;Arrive Alive Program&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-body"&gt;
+  &lt;p class="tc-proj-desc"&gt;Contributed to the Arrive Alive impaired-driving awareness campaign. Outreach, education, and community engagement work around road safety in Minnesota.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-chips"&gt;
+  &lt;span class="tc-chip"&gt;Outreach&lt;/span&gt;
+  &lt;span class="tc-chip"&gt;Public Safety&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="tc-proj-links"&gt;
+  &lt;a href="#"&gt;Details&lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+</div>
+</div>
+<div class="tc-section">
+<span class="tc-eyebrow">Full Toolkit</span>
+<div class="tc-section-title">
+Skills inventory
+</div>
+<hr class="tc-rule">
+<div class="tc-skill-block">
+<div class="tc-skill-label">
+Programming &amp; Data
+</div>
+<div class="tc-tags">
+<pre><code>&lt;span class="tc-tag tc-tag-hi"&gt;Python&lt;/span&gt;
+&lt;span class="tc-tag tc-tag-hi"&gt;R&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Minitab&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Excel&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Data Visualization&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Statistical Modeling&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Numerical Methods&lt;/span&gt;</code></pre>
+</div>
+</div>
+<div class="tc-skill-block">
+<div class="tc-skill-label">
+CAD &amp; Fabrication
+</div>
+<div class="tc-tags">
+<pre><code>&lt;span class="tc-tag tc-tag-hi"&gt;Autodesk Fusion 360&lt;/span&gt;
+&lt;span class="tc-tag tc-tag-hi"&gt;CNC Milling (2.5 &amp; 3-axis)&lt;/span&gt;
+&lt;span class="tc-tag tc-tag-hi"&gt;Manual Milling (rotary vise)&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Lathe Turning&lt;/span&gt;
+&lt;span class="tc-tag"&gt;MIG Welding&lt;/span&gt;
+&lt;span class="tc-tag"&gt;TIG Welding&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Stick Welding&lt;/span&gt;
+&lt;span class="tc-tag"&gt;G-code&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Equipment Calibration&lt;/span&gt;</code></pre>
+</div>
+</div>
+<div class="tc-skill-block">
+<div class="tc-skill-label">
+Safety &amp; Certifications
+</div>
+<div class="tc-tags">
+<pre><code>&lt;span class="tc-tag tc-tag-hi"&gt;OSHA 10&lt;/span&gt;
+&lt;span class="tc-tag tc-tag-hi"&gt;WFR&lt;/span&gt;
+&lt;span class="tc-tag"&gt;First Aid&lt;/span&gt;
+&lt;span class="tc-tag"&gt;CPR&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Epinephrine (2025)&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Lifeguard (2022)&lt;/span&gt;</code></pre>
+</div>
+</div>
+<div class="tc-skill-block">
+<div class="tc-skill-label">
+Soft Skills
+</div>
+<div class="tc-tags">
+<pre><code>&lt;span class="tc-tag"&gt;Curriculum Design&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Technical Writing&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Grant Writing&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Team Leadership&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Shop Teaching&lt;/span&gt;
+&lt;span class="tc-tag"&gt;Community Facilitation&lt;/span&gt;</code></pre>
+</div>
+</div>
+</div>
+<div style="padding: 1rem 0 2.5rem;">
+<p><a href="mailto:tylercelotta@reed.edu" class="tc-cta-link tc-cta-filled">Get in Touch →</a> <a href="./Homepage.html" class="tc-cta-link">← Back Home</a></p>
+</div>
+
+
+</main></div>
+
+
+
+
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -802,14 +962,14 @@ window.Quarto = {
     }
   });
   </script>
-</div> <!-- /content -->
+ <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>612-388-8813</p>
+<p>Tyler Celotta · Portland, OR · <a href="mailto:tylercelotta@reed.edu">tylercelotta@reed.edu</a></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
@@ -820,4 +980,5 @@ window.Quarto = {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

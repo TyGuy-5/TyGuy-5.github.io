@@ -1,8 +1,239 @@
 ---
-title: "My Portfolio"
-format: html
-listing:
-    contents: Photos
-editor: source
+title: "Portfolio"
 ---
 
+<div class="tc-page-hero">
+<span class="tc-eyebrow">Work</span>
+<div class="tc-page-title">Projects & Portfolio</div>
+<p class="tc-page-sub">Engineering projects, data analysis, fabrication work, and community initiatives. A cross-section of what I've built, modeled, and shipped.</p>
+</div>
+
+<div class="tc-section">
+<span class="tc-eyebrow">Engineering & Fabrication</span>
+<div class="tc-section-title">Built with hands & machines</div>
+<hr class="tc-rule">
+
+<div class="tc-project-grid">
+  <div class="tc-project-card">
+    <div class="tc-proj-header">
+      <div class="tc-proj-tag">Thermal Engineering</div>
+      <div class="tc-proj-title">Two-Stage Evaporative Cooler</div>
+    </div>
+    <div class="tc-proj-body">
+      <p class="tc-proj-desc">Designed and built a two-stage evaporative cooling prototype achieving ΔT = 5°F at 60% relative humidity — a meaningful cooling margin in real-world conditions.</p>
+    </div>
+    <div class="tc-proj-chips">
+      <span class="tc-chip">Fusion 360</span>
+      <span class="tc-chip">Thermodynamics</span>
+      <span class="tc-chip">Prototyping</span>
+    </div>
+    <div class="tc-proj-links">
+      <a href="#">Details</a>
+    </div>
+  </div>
+
+  <div class="tc-project-card">
+    <div class="tc-proj-header">
+      <div class="tc-proj-tag">Precision Machining</div>
+      <div class="tc-proj-title">Non-Sparking Propane Wrench</div>
+    </div>
+    <div class="tc-proj-body">
+      <p class="tc-proj-desc">Fabricated a non-sparking propane regulator wrench entirely by hand on a manual mill, holding ±0.003″ tolerance throughout. A study in setup, patience, and measurement.</p>
+    </div>
+    <div class="tc-proj-chips">
+      <span class="tc-chip">Manual Mill</span>
+      <span class="tc-chip">Metrology</span>
+      <span class="tc-chip">Material Selection</span>
+    </div>
+    <div class="tc-proj-links">
+      <a href="#">Details</a>
+    </div>
+  </div>
+
+  <div class="tc-project-card">
+    <div class="tc-proj-header">
+      <div class="tc-proj-tag">Curriculum Design</div>
+      <div class="tc-proj-title">15-Hour Machining Curriculum</div>
+    </div>
+    <div class="tc-proj-body">
+      <p class="tc-proj-desc">Designed and implemented a comprehensive 15-hour curriculum covering manual milling, lathe turning, and CNC programming for the Twin Cities Makers community shop.</p>
+    </div>
+    <div class="tc-proj-chips">
+      <span class="tc-chip">CNC</span>
+      <span class="tc-chip">Lathe</span>
+      <span class="tc-chip">Education</span>
+    </div>
+    <div class="tc-proj-links">
+      <a href="#">Details</a>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="tc-section">
+<span class="tc-eyebrow">Data & Analysis</span>
+<div class="tc-section-title">Models, code, and results</div>
+<hr class="tc-rule">
+
+<div class="tc-project-grid">
+  <div class="tc-project-card">
+    <div class="tc-proj-header">
+      <div class="tc-proj-tag">Policy / Finance</div>
+      <div class="tc-proj-title">Electric Bus Fleet Conversion</div>
+    </div>
+    <div class="tc-proj-body">
+      <p class="tc-proj-desc">30-year cost-benefit analysis for a diesel-to-electric school bus fleet conversion. Built a financial model in Excel using MN state energy data; co-authored the formal grant proposal.</p>
+    </div>
+    <div class="tc-proj-chips">
+      <span class="tc-chip">Excel</span>
+      <span class="tc-chip">Cost-Benefit Analysis</span>
+      <span class="tc-chip">Grant Writing</span>
+    </div>
+    <div class="tc-proj-links">
+      <a href="#">Details</a>
+    </div>
+  </div>
+
+  <div class="tc-project-card">
+    <div class="tc-proj-header">
+      <div class="tc-proj-tag">Competition</div>
+      <div class="tc-proj-title">M3 Challenge Math Modeling</div>
+    </div>
+    <div class="tc-proj-body">
+      <p class="tc-proj-desc">Recognized for analytical clarity and team methodology in the MathWorks Math Modeling Challenge (2023). Applied differential equations and statistical modeling under a 14-hour constraint.</p>
+    </div>
+    <div class="tc-proj-chips">
+      <span class="tc-chip">Python</span>
+      <span class="tc-chip">Differential Equations</span>
+      <span class="tc-chip">Statistics</span>
+    </div>
+    <div class="tc-proj-links">
+      <a href="#">Details</a>
+    </div>
+  </div>
+
+  <div class="tc-project-card">
+    <div class="tc-proj-header">
+      <div class="tc-proj-tag">Coming Soon</div>
+      <div class="tc-proj-title">Physics Lab Analyses</div>
+    </div>
+    <div class="tc-proj-body">
+      <p class="tc-proj-desc">Computational analyses from Reed Physics coursework — data reduction, uncertainty quantification, and graphical analysis using Python and R. Posts coming to the blog.</p>
+    </div>
+    <div class="tc-proj-chips">
+      <span class="tc-chip">Python</span>
+      <span class="tc-chip">R</span>
+      <span class="tc-chip">Graphical Analysis</span>
+    </div>
+    <div class="tc-proj-links">
+      <a href="Blog.qmd">Blog</a>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="tc-section">
+<span class="tc-eyebrow">Community</span>
+<div class="tc-section-title">Beyond the lab bench</div>
+<hr class="tc-rule">
+
+<div class="tc-project-grid">
+  <div class="tc-project-card">
+    <div class="tc-proj-header">
+      <div class="tc-proj-tag">Eagle Scout Project</div>
+      <div class="tc-proj-title">BSA Eagle Scout Service Project</div>
+    </div>
+    <div class="tc-proj-body">
+      <p class="tc-proj-desc">Capstone community service project required for Scouting's highest rank — planned, resourced, and led a team of volunteers to deliver a lasting community benefit.</p>
+    </div>
+    <div class="tc-proj-chips">
+      <span class="tc-chip">Leadership</span>
+      <span class="tc-chip">Project Management</span>
+      <span class="tc-chip">Community Service</span>
+    </div>
+    <div class="tc-proj-links">
+      <a href="#">Details</a>
+    </div>
+  </div>
+
+  <div class="tc-project-card">
+    <div class="tc-proj-header">
+      <div class="tc-proj-tag">Public Awareness</div>
+      <div class="tc-proj-title">Arrive Alive Program</div>
+    </div>
+    <div class="tc-proj-body">
+      <p class="tc-proj-desc">Contributed to the Arrive Alive impaired-driving awareness campaign. Outreach, education, and community engagement work around road safety in Minnesota.</p>
+    </div>
+    <div class="tc-proj-chips">
+      <span class="tc-chip">Outreach</span>
+      <span class="tc-chip">Public Safety</span>
+    </div>
+    <div class="tc-proj-links">
+      <a href="#">Details</a>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="tc-section">
+<span class="tc-eyebrow">Full Toolkit</span>
+<div class="tc-section-title">Skills inventory</div>
+<hr class="tc-rule">
+
+<div class="tc-skill-block">
+  <div class="tc-skill-label">Programming & Data</div>
+  <div class="tc-tags">
+    <span class="tc-tag tc-tag-hi">Python</span>
+    <span class="tc-tag tc-tag-hi">R</span>
+    <span class="tc-tag">Minitab</span>
+    <span class="tc-tag">Excel</span>
+    <span class="tc-tag">Data Visualization</span>
+    <span class="tc-tag">Statistical Modeling</span>
+    <span class="tc-tag">Numerical Methods</span>
+  </div>
+</div>
+
+<div class="tc-skill-block">
+  <div class="tc-skill-label">CAD & Fabrication</div>
+  <div class="tc-tags">
+    <span class="tc-tag tc-tag-hi">Autodesk Fusion 360</span>
+    <span class="tc-tag tc-tag-hi">CNC Milling (2.5 & 3-axis)</span>
+    <span class="tc-tag tc-tag-hi">Manual Milling (rotary vise)</span>
+    <span class="tc-tag">Lathe Turning</span>
+    <span class="tc-tag">MIG Welding</span>
+    <span class="tc-tag">TIG Welding</span>
+    <span class="tc-tag">Stick Welding</span>
+    <span class="tc-tag">G-code</span>
+    <span class="tc-tag">Equipment Calibration</span>
+  </div>
+</div>
+
+<div class="tc-skill-block">
+  <div class="tc-skill-label">Safety & Certifications</div>
+  <div class="tc-tags">
+    <span class="tc-tag tc-tag-hi">OSHA 10</span>
+    <span class="tc-tag tc-tag-hi">WFR</span>
+    <span class="tc-tag">First Aid</span>
+    <span class="tc-tag">CPR</span>
+    <span class="tc-tag">Epinephrine (2025)</span>
+    <span class="tc-tag">Lifeguard (2022)</span>
+  </div>
+</div>
+
+<div class="tc-skill-block">
+  <div class="tc-skill-label">Soft Skills</div>
+  <div class="tc-tags">
+    <span class="tc-tag">Curriculum Design</span>
+    <span class="tc-tag">Technical Writing</span>
+    <span class="tc-tag">Grant Writing</span>
+    <span class="tc-tag">Team Leadership</span>
+    <span class="tc-tag">Shop Teaching</span>
+    <span class="tc-tag">Community Facilitation</span>
+  </div>
+</div>
+</div>
+
+<div style="padding: 1rem 0 2.5rem;">
+  <a href="mailto:tylercelotta@reed.edu" class="tc-cta-link tc-cta-filled">Get in Touch →</a>
+  <a href="Homepage.qmd" class="tc-cta-link">← Back Home</a>
+</div>

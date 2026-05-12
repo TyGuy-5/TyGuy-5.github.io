@@ -1,9 +1,9 @@
 ---
 title: "Tyler Celotta"
-subtitle: "Personal Portfolio"
+subtitle: "Physics · Engineering · Photography"
 image: profile.gif
 image-alt: "Photo of Tyler"
-about: # https://quarto.org/docs/websites/website-about.html
+about:
   template: marquee
   links:
     - icon: envelope
@@ -17,60 +17,157 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://www.linkedin.com/in/tyler-celotta/
 ---
 
-Physics student at Reed College enrolled in a dual degree program with a strong background in mechanical engineering and hands-on experience in machining and design. Skilled in Python programming, data analysis, and fabrication, with leadership experience, a love of the outdoors, and an engaged member of the community as an Eagle Scout.
+Physics student at Reed College in a 3/2 dual degree program (BA Physics → BS Mechanical Engineering at Columbia). I build things with my hands, model things with code, photograph people, and spend too much time outdoors — from the shop floor to the backcountry.
 
-## Education
+<div class="tc-section">
+<span class="tc-eyebrow">What I Do</span>
+<div class="tc-section-title">Built for every kind of curious mind</div>
+<hr class="tc-rule">
 
-**Reed College**, BA in Physics -- Portland, OR | Jan 2024 -- Present
+<div class="tc-audience-grid">
+  <div class="tc-audience-card">
+    <div class="tc-card-icon">⚙️</div>
+    <div class="tc-card-audience">For Professionals</div>
+    <div class="tc-card-title">Engineer in Training</div>
+    <p class="tc-card-desc">Physics + ME dual degree, machining and fabrication, data analysis, and real-world internship experience. See my resume, projects, and certifications.</p>
+  </div>
+  <div class="tc-audience-card">
+    <div class="tc-card-icon">🔬</div>
+    <div class="tc-card-audience">For Collaborators</div>
+    <div class="tc-card-title">Technical Problem Solver</div>
+    <p class="tc-card-desc">Python, R, CAD/CAM, CNC programming, and experimental design. I work best on messy, real-world problems that need both rigor and hands-on intuition.</p>
+  </div>
+  <div class="tc-audience-card">
+    <div class="tc-card-icon">📷</div>
+    <div class="tc-card-audience">For Creatives</div>
+    <div class="tc-card-title">Portrait Photographer</div>
+    <p class="tc-card-desc">Capturing natural light and authentic moments in portrait sessions since 2023. Operated under Celotta Photos with a documentary-influenced eye.</p>
+  </div>
+  <div class="tc-audience-card">
+    <div class="tc-card-icon">🌲</div>
+    <div class="tc-card-audience">For Peers</div>
+    <div class="tc-card-title">Maker, Scout & Writer</div>
+    <p class="tc-card-desc">Eagle Scout, outdoor enthusiast, and community builder. The blog tracks personal projects, adventures, and the occasional deep dive into something interesting.</p>
+  </div>
+</div>
+</div>
 
-- Enrolled in 3/2 Dual Degree Program: BA Physics (Reed) + BS Mechanical Engineering (Columbia University)
-- Coursework: Calculus (I,II,III), Linear Algebra, Data Science, Physics, Chemistry, Logic, Humanities, Ethics, Economics
-- Earned credits from the University of Minnesota (Physics, English, Python)
-- Earned credits from the University of St.Thomas (Statistics)
+<div class="tc-stats-strip">
+  <div>
+    <div class="tc-stat-number">3/2</div>
+    <div class="tc-stat-label">Dual Degree<br>Program</div>
+  </div>
+  <div>
+    <div class="tc-stat-number">±0.003″</div>
+    <div class="tc-stat-label">Tolerance<br>Achieved</div>
+  </div>
+  <div>
+    <div class="tc-stat-number">5+</div>
+    <div class="tc-stat-label">Years of<br>Leadership</div>
+  </div>
+  <div>
+    <div class="tc-stat-number">OSHA 10</div>
+    <div class="tc-stat-label">Safety<br>Certified</div>
+  </div>
+  <div>
+    <div class="tc-stat-number">Eagle</div>
+    <div class="tc-stat-label">BSA Highest<br>Rank</div>
+  </div>
+</div>
 
-## Experience
+<div class="tc-section">
+<span class="tc-eyebrow">Experience</span>
+<div class="tc-section-title">Where I've been</div>
+<hr class="tc-rule">
 
-**Intern, Mechanical Engineering**, Twin Cities Makers -- Minneapolis, MN | Jun 2025 -- Aug 2025
-- Designed and implemented a 15-hour curriculum covering manual milling, lathe turning, and CNC programming.
-- Designed/built two-stage evaporative cooling prototype (ΔT = 5°F at 60% humidity).
-- Fabricated precision tools by hand (non-sparking propane regulator wrench, ± 0.003'' tolerance).
-- Conducted mechanical maintenance on shop systems (plumbing, HVAC, machines) to improve equipment uptime.
-- Collaborated with shop members to brainstorm and troubleshoot project issues to help them move forward.
+<div class="tc-timeline">
+  <div class="tc-timeline-item">
+    <div class="tc-tl-date">Jun 2025 – Aug 2025</div>
+    <div class="tc-tl-role">Mechanical Engineering Intern</div>
+    <div class="tc-tl-org">Twin Cities Makers · Minneapolis, MN</div>
+    <div class="tc-tl-desc">Designed a 15-hour machining curriculum; built a two-stage evaporative cooling prototype (ΔT = 5°F at 60% RH); fabricated precision tooling to ±0.003″ tolerance.</div>
+  </div>
+  <div class="tc-timeline-item">
+    <div class="tc-tl-date">Jan 2024 – Present</div>
+    <div class="tc-tl-role">BA Physics Student</div>
+    <div class="tc-tl-org">Reed College · Portland, OR</div>
+    <div class="tc-tl-desc">3/2 Dual Degree program toward BS Mechanical Engineering at Columbia. Coursework spanning calculus, linear algebra, data science, physics, and the Reed Humanities core.</div>
+  </div>
+  <div class="tc-timeline-item">
+    <div class="tc-tl-date">Oct 2023</div>
+    <div class="tc-tl-role">Engineering Job Shadow</div>
+    <div class="tc-tl-org">Medtronic · Minneapolis, MN</div>
+    <div class="tc-tl-desc">Shadowed six biomedical engineers on pacemaker systems R&amp;D; observed live surgery; discussed materials and testing protocols under NDA.</div>
+  </div>
+  <div class="tc-timeline-item">
+    <div class="tc-tl-date">Nov 2021 – Mar 2022</div>
+    <div class="tc-tl-role">Grant Writer</div>
+    <div class="tc-tl-org">Centennial School District · Lino Lakes, MN</div>
+    <div class="tc-tl-desc">Co-drafted a diesel-to-electric bus fleet conversion proposal; 30-year cost-benefit analysis with state data and Excel financial modeling.</div>
+  </div>
+  <div class="tc-timeline-item">
+    <div class="tc-tl-date">2023</div>
+    <div class="tc-tl-role">Eagle Scout</div>
+    <div class="tc-tl-org">Boy Scouts of America</div>
+    <div class="tc-tl-desc">Scouting's highest rank — years of leadership, community service, and outdoor skills culminating in a capstone Eagle Scout service project.</div>
+  </div>
+</div>
+</div>
 
-**Engineering Job Shadow**, Medtronic -- Minneapolis, MN | Oct 2023
-- Shadowed 6 biomedical engineers developing pacemaker systems; observed live surgery for procedural analysis.
-- Discussed testing and materials protocols for medical-grade components under NDA.
+<div class="tc-section">
+<span class="tc-eyebrow">Toolkit</span>
+<div class="tc-section-title">Skills & Tools</div>
+<hr class="tc-rule">
 
-**Grant Writer**, Centennial School District -- Lino Lakes, MN | Nov 2021 -- March 2022
-- Co-drafted proposal for diesel-to-electric bus fleet conversion.
-- Performed 30-year cost-benefit analysis with state data.
-- Created technical and economic modeling in Excel to demonstrate long-term energy savings.
+<div class="tc-skill-block">
+  <div class="tc-skill-label">Programming & Data</div>
+  <div class="tc-tags">
+    <span class="tc-tag tc-tag-hi">Python</span>
+    <span class="tc-tag tc-tag-hi">R</span>
+    <span class="tc-tag">Excel</span>
+    <span class="tc-tag">Minitab</span>
+    <span class="tc-tag">Data Analysis</span>
+    <span class="tc-tag">Math Modeling</span>
+    <span class="tc-tag">Graphical Analysis</span>
+  </div>
+</div>
 
-**Contracted Trip Leader** -- Portland, OR | Aug 2025 -- Sep 2025
+<div class="tc-skill-block">
+  <div class="tc-skill-label">Fabrication & Design</div>
+  <div class="tc-tags">
+    <span class="tc-tag tc-tag-hi">Fusion 360 (CAD/CAM)</span>
+    <span class="tc-tag tc-tag-hi">CNC Milling (2.5 & 3-axis)</span>
+    <span class="tc-tag">Manual Milling</span>
+    <span class="tc-tag">MIG / TIG / Stick Welding</span>
+    <span class="tc-tag">Equipment Calibration</span>
+    <span class="tc-tag">Small Engine Repair</span>
+    <span class="tc-tag">Machine Maintenance</span>
+  </div>
+</div>
 
-**Lifeguard**, City of Lino Lakes & Community Education ISD12 -- Lino Lakes, MN | Jul 2022 -- Aug 2023
+<div class="tc-skill-block">
+  <div class="tc-skill-label">Certifications</div>
+  <div class="tc-tags">
+    <span class="tc-tag tc-tag-hi">OSHA 10</span>
+    <span class="tc-tag tc-tag-hi">WFR (Wilderness First Responder)</span>
+    <span class="tc-tag">First Aid / CPR</span>
+    <span class="tc-tag">Epinephrine (2025)</span>
+    <span class="tc-tag">Lifeguard (2022)</span>
+  </div>
+</div>
 
-**Barista**, Caribou Coffee -- Moundsview, MN | Jun 2024 -- Sept 2025
+<div class="tc-skill-block">
+  <div class="tc-skill-label">Languages</div>
+  <div class="tc-tags">
+    <span class="tc-tag">English (native)</span>
+    <span class="tc-tag">Quarto / R Markdown</span>
+    <span class="tc-tag">G-code (CNC)</span>
+  </div>
+</div>
+</div>
 
-**Van Driver**, Reed College -- Portland, OR | Aug 2024 -- Present
-
-**Umpire**, Centennial Little League -- Lino Lakes, MN | Feb 2022 -- Jul 2025
-
-**Portrait Photographer**, Celotta Photos | April 2023 -- Present
-
-## Skills
-
-- **Programming:** Python (data analysis, math modeling, and graphical analysis)
-- **Data Tools:** R, Minitab, and Excel 
-- **Fabrication:** Autodesk Fusion 360 (CAD/CAM), CNC milling (2.5 & 3-axis), manual milling (w/ rotary vice), MIG/TIG/Stick welding, equipment installation & calibration, small engine repair, and machine maintenance.
-- **Certifications:** OSHA 10, WFR, First Aid, CPR, Epinephrine (2025), Lifeguard (2022)
-
-## Achievements
-
-- Eagle Scout, Boy Scouts of America (2023)
-- Recognized for analytical clarity and team methodology in MathWorks Math Modeling (M3) Challenge (2023)
-- Awarded SIA (summer internship award), which offers funding to support unpaid off-campus internship opportunities in the public sector and non-profits.
-
-## Interests
-
-Community service (Boy Scouts of America, Eagle Scout), Photography, Mechanical Design and Fabrication, Public awareness campaigns (Arrive Alive Program & Save The Boundary Waters)
+<div style="padding: 1.5rem 0 2.5rem;">
+  <a href="Portfolio.qmd" class="tc-cta-link tc-cta-filled">View Portfolio →</a>
+  <a href="Photography.qmd" class="tc-cta-link">Photography</a>
+  <a href="Blog.qmd" class="tc-cta-link">Blog</a>
+</div>
