@@ -1,86 +1,74 @@
 /*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Space+Grotesk:wght@400;600;700&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap');
+/* ─── Core Professional Palette ────────────────────────────── */
+$primary:             #0055FF; /* Electric Blue */
+$secondary:           #111111;
+$body-bg:             #FAFAFA; /* Crisp white-gray */
+$body-color:          #222222;
+$headings-color:      #111111;
+$link-color:          #0055FF;
+$navbar-bg:           #0A0A0A;
+$navbar-fg:           #FFFFFF;
 
-/* ─── Core palette ─────────────────────────────────────────── */
-$primary:             #C4612A;
-$secondary:           #3A6EA5;
-$body-bg:             #F5F0E8;
-$body-color:          #1A1A1A;
-$headings-color:      #1A1A1A;
-$link-color:          #C4612A;
-$navbar-bg:           #181818;
-$navbar-fg:           #F0ECE3;
-
-/* ─── Typography & Fluid Scaling ───────────────────────────── */
-$headings-font-family:  'Fraunces', Georgia, serif;
-$font-family-base:      'Merriweather', Georgia, serif;
+/* ─── Typography Evolution ─────────────────────────────────── */
+$headings-font-family:  'Space Grotesk', sans-serif;
+$font-family-base:      'Inter', sans-serif;
 $font-family-monospace: 'Space Mono', monospace;
 
-/* Fluid baseline: scales between 16px and ~18px based on viewport */
+/* Fluid Typography Baseline */
 html {
   font-size: clamp(100%, 0.95rem + 0.25vw, 112.5%);
 }
 
-h1, .tc-page-title {
-  /* Golden Ratio (1.618) scaling for dramatic hero impact */
-  font-size: clamp(2.5rem, 5vw, 4.2rem) !important; 
-  line-height: 1.05;
-}
-
-h2, .tc-section-title {
-  /* Perfect Fourth (1.333) scaling for section breaks */
-  font-size: clamp(1.8rem, 3.5vw, 2.6rem);
-  line-height: 1.12;
-}
-
-p, .tc-proj-desc {
-  font-size: 1rem; /* Now relative to the fluid root */
-  line-height: 1.82;
-}
-
-/* ─── Misc ─────────────────────────────────────────────────── */
-$border-radius:   0px;
-$code-color:      $body-color;
-$code-block-bg:   #EBE6DE;
-$code-bg:         $code-block-bg;
-
 /*-- scss:rules --*/
 
 /* ─────────────────────────────────────────────────────────── */
-/*  CSS Custom Properties — light & dark mode                  */
+/* CSS Custom Properties — Light & Dark Mode                  */
 /* ─────────────────────────────────────────────────────────── */
 :root {
-  --tc-accent:         #C4612A;
-  --tc-accent-hover:   #A34E20;
-  --tc-accent-tint:    rgba(196, 97, 42, 0.09);
-  --tc-blue:           #3A6EA5;
+  --tc-accent:         #0055FF;
+  --tc-accent-hover:   #0033AA;
+  --tc-accent-tint:    rgba(0, 85, 255, 0.08);
   --tc-card-bg:        #FFFFFF;
-  --tc-raised-bg:      #F5F0E8;
-  --tc-muted:          #656060;
-  --tc-subtle:         #9E9896;
-  --tc-border:         #DDD8CE;
-  --tc-text:           #1A1A1A;
-  --tc-heading:        #1A1A1A;
-  --tc-ink-bg:         #181818;
-  --tc-ink-text:       #F0ECE3;
-  --tc-ink-muted:      rgba(240, 236, 227, 0.55);
+  --tc-raised-bg:      #F4F4F5;
+  --tc-muted:          #555555;
+  --tc-border:         #E4E4E7;
+  --tc-heading:        #111111;
+  --tc-ink-bg:         #0A0A0A;
+  --tc-ink-text:       #FFFFFF;
+  
+  /* Cool Feature: Glassmorphism Glow */
+  --tc-glow-shadow:    0 8px 32px rgba(0, 85, 255, 0.12);
 }
 
 [data-bs-theme="dark"] {
-  --tc-accent:         #E07A45;
-  --tc-accent-hover:   #C4612A;
-  --tc-accent-tint:    rgba(224, 122, 69, 0.1);
-  --tc-card-bg:        #1B2330;
-  --tc-raised-bg:      #131B27;
-  --tc-muted:          #9BA8B5;
-  --tc-subtle:         #6B7888;
-  --tc-border:         #293444;
-  --tc-text:           #E2DDD5;
-  --tc-heading:        #EDE9E1;
-  --tc-ink-bg:         #0D1420;
-  --tc-ink-text:       #EDE9E1;
-  --tc-ink-muted:      rgba(237, 233, 225, 0.5);
+  --tc-accent:         #3377FF;
+  --tc-accent-hover:   #6699FF;
+  --tc-accent-tint:    rgba(51, 119, 255, 0.15);
+  --tc-card-bg:        #121212;
+  --tc-raised-bg:      #1A1A1A;
+  --tc-muted:          #A1A1AA;
+  --tc-border:         #27272A;
+  --tc-heading:        #FAFAFA;
+  --tc-ink-bg:         #050505;
+  --tc-ink-text:       #FAFAFA;
+  
+  --tc-glow-shadow:    0 8px 32px rgba(51, 119, 255, 0.2);
+}
+
+/* ─────────────────────────────────────────────────────────── */
+/* Card Hover Effects (The "Cool Feature")                    */
+/* ─────────────────────────────────────────────────────────── */
+.tc-project-card, .tc-audience-card {
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  border-radius: 4px; /* Slight rounding for modern feel */
+}
+
+.tc-project-card:hover, .tc-audience-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--tc-glow-shadow);
+  border-color: var(--tc-accent);
 }
 
 /* ─────────────────────────────────────────────────────────── */

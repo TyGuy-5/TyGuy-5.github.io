@@ -85,51 +85,42 @@ Physics student at Reed College in a 3/2 dual degree program (BA Physics → BS 
     <div class="tc-tl-date">Jun 2025 – Aug 2025</div>
     <div class="tc-tl-role">Mechanical Engineering Intern</div>
     <div class="tc-tl-org">Twin Cities Makers · Minneapolis, MN</div>
-    <div class="tc-tl-desc">Designed a 15-hour machining curriculum; built a two-stage evaporative cooling prototype (ΔT = 5°F at 60% RH); fabricated precision tooling to ±0.003″ tolerance.</div>
+    <div class="tc-tl-desc">Designed a 15-hour machining curriculum covering manual milling, lathe turning, and CNC programming [cite: 55]; built a two-stage evaporative cooling prototype [cite: 56]; fabricated precision tooling by hand holding a non-sparking propane regulator wrench to ±0.003″ tolerance[cite: 57].</div>
   </div>
   <div class="tc-timeline-item">
     <div class="tc-tl-date">Jan 2024 – Present</div>
     <div class="tc-tl-role">BA Physics Student</div>
     <div class="tc-tl-org">Reed College · Portland, OR</div>
-    <div class="tc-tl-desc">3/2 Dual Degree program toward BS Mechanical Engineering at Columbia. Coursework spanning calculus, linear algebra, data science, physics, and the Reed Humanities core.</div>
+    <div class="tc-tl-desc">3/2 Dual Degree program toward BS Mechanical Engineering at Columbia University[cite: 79]. Awarded the Summer Internship Award (SIA) for public sector contributions.</div>
   </div>
   <div class="tc-timeline-item">
     <div class="tc-tl-date">Oct 2023</div>
     <div class="tc-tl-role">Engineering Job Shadow</div>
     <div class="tc-tl-org">Medtronic · Minneapolis, MN</div>
-    <div class="tc-tl-desc">Shadowed six biomedical engineers on pacemaker systems R&amp;D; observed live surgery; discussed materials and testing protocols under NDA.</div>
+    <div class="tc-tl-desc">Shadowed six biomedical engineers on pacemaker systems R&D; observed live surgery for procedural analysis[cite: 60]. Discussed materials and testing protocols for medical-grade components under NDA[cite: 61].</div>
   </div>
   <div class="tc-timeline-item">
     <div class="tc-tl-date">Nov 2021 – Mar 2022</div>
     <div class="tc-tl-role">Grant Writer</div>
     <div class="tc-tl-org">Centennial School District · Lino Lakes, MN</div>
-    <div class="tc-tl-desc">Co-drafted a diesel-to-electric bus fleet conversion proposal; 30-year cost-benefit analysis with state data and Excel financial modeling.</div>
-  </div>
-  <div class="tc-timeline-item">
-    <div class="tc-tl-date">2023</div>
-    <div class="tc-tl-role">Eagle Scout</div>
-    <div class="tc-tl-org">Boy Scouts of America</div>
-    <div class="tc-tl-desc">Scouting's highest rank — years of leadership, community service, and outdoor skills culminating in a capstone Eagle Scout service project.</div>
+    <div class="tc-tl-desc">Co-drafted a diesel-to-electric bus fleet conversion proposal [cite: 64]; executed a 30-year cost-benefit analysis using state data and Excel financial modeling[cite: 65, 66].</div>
   </div>
 </div>
 </div>
 
 <div class="tc-section">
 <span class="tc-eyebrow">Toolkit</span>
-<div class="tc-section-title">Skills & Tools</div>
+<div class="tc-section-title">Skills & Capabilities</div>
 <hr class="tc-rule">
 
 <div class="tc-skill-block">
   <div class="tc-skill-label">Programming & Data</div>
   <div class="tc-tags">
-    <span class="tc-tag tc-tag-hi">Python</span>
+    <span class="tc-tag tc-tag-hi">Python (Math Modeling & Graphical Analysis)</span>
     <span class="tc-tag tc-tag-hi">R</span>
-    <span class="tc-tag">Excel</span>
-    <span class="tc-tag">Minitab</span>
-    <span class="tc-tag">Data Analysis</span>
-    <span class="tc-tag">Math Modeling</span>
-    <span class="tc-tag">Graphical Analysis</span>
+    <span class="tc-tag">Excel & Minitab</span>
   </div>
+  <p class="tc-proj-desc" style="margin-top: 0.8rem; font-size: 0.85rem;"><em>Workflow Note:</em> Code doesn't just live on a desktop; I frequently prototype and iterate Python scripts on the go using environments like Carnets Plus.</p>
 </div>
 
 <div class="tc-skill-block">
@@ -137,12 +128,12 @@ Physics student at Reed College in a 3/2 dual degree program (BA Physics → BS 
   <div class="tc-tags">
     <span class="tc-tag tc-tag-hi">Fusion 360 (CAD/CAM)</span>
     <span class="tc-tag tc-tag-hi">CNC Milling (2.5 & 3-axis)</span>
-    <span class="tc-tag">Manual Milling</span>
+    <span class="tc-tag">Manual Milling (Rotary Vise)</span>
     <span class="tc-tag">MIG / TIG / Stick Welding</span>
     <span class="tc-tag">Equipment Calibration</span>
     <span class="tc-tag">Small Engine Repair</span>
-    <span class="tc-tag">Machine Maintenance</span>
   </div>
+</div>
 </div>
 
 <div class="tc-skill-block">
