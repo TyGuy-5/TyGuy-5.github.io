@@ -22,6 +22,7 @@ about:
 
 Physics student at Reed College in a 3/2 dual degree program — BA Physics at Reed, BS Mechanical Engineering at Columbia. I build things in the shop, model things in code, photograph people and places, and spend too much time outdoors.
 
+```{=html}
 <hr class="tc-double-rule">
 
 <div class="tc-section">
@@ -173,3 +174,4 @@ Physics student at Reed College in a 3/2 dual degree program — BA Physics at R
 <a href="Photography.qmd" class="tc-cta-link">Photography</a>
 <a href="Blog.qmd" class="tc-cta-link">Blog</a>
 </div>
+```

@@ -2,6 +2,7 @@
 title: "Photography"
 ---
 
+```{=html}
 <div class="tc-page-hero">
 <span class="tc-eyebrow">Celotta Photos</span>
 <div class="tc-page-title">Photography</div>
@@ -125,3 +126,4 @@ title: "Photography"
   <a href="mailto:tylercelotta@reed.edu" class="tc-cta-link tc-cta-filled">Book a Session →</a>
   <a href="index.qmd" class="tc-cta-link">← Home</a>
 </div>
+```
