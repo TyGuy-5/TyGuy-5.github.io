@@ -60,10 +60,6 @@ Physics student at Reed College in a 3/2 dual degree program — BA Physics at R
 <div class="tc-stat-label">Dual Degree<br>Program</div>
 </div>
 <div>
-<div class="tc-stat-number">±0.003″</div>
-<div class="tc-stat-label">Tolerance<br>Achieved</div>
-</div>
-<div>
 <div class="tc-stat-number">5+</div>
 <div class="tc-stat-label">Years<br>Leadership</div>
 </div>
@@ -162,7 +158,7 @@ Physics student at Reed College in a 3/2 dual degree program — BA Physics at R
 
 <div class="tc-resume-row">
 <span class="tc-resume-label">Full résumé available for download</span>
-<a href="2-27-26_Resume.pdf" class="tc-cta-link tc-cta-filled" target="_blank">Download Résumé →</a>
+<a href="docs/Resume.pdf" class="tc-cta-link tc-cta-filled" target="_blank">Download Résumé →</a>
 </div>
 
 <div style="padding: 1rem 0 2.5rem;">
