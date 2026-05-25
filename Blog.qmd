@@ -11,5 +11,5 @@ editor: source
 <div class="tc-page-hero">
 <span class="tc-eyebrow">Writing</span>
 <div class="tc-page-title">Notes & Projects</div>
-<p class="tc-page-sub">Physics lab write-ups, project documentation, occasional opinions on things that interest me. Infrequent but deliberate.</p>
+<p class="tc-page-sub">Project documentation and occasionaly things that interest me. Infrequent but deliberate.</p>
 </div>
