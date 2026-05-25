@@ -30,54 +30,54 @@ Physics student at Reed College in a 3/2 dual degree program — BA Physics at R
 <hr class="tc-rule">
 
 <div class="tc-audience-grid">
-  <div class="tc-audience-card">
-    <span class="tc-card-icon">⚙️</span>
-    <span class="tc-card-audience">Engineering</span>
-    <div class="tc-card-title">Fabricator & Analyst</div>
-    <p class="tc-card-desc">Physics and mechanical engineering coursework backed by real shop hours — CNC milling, manual milling, welding, CAD/CAM, and precision metrology. I hold tolerances and take measurement seriously.</p>
-  </div>
-  <div class="tc-audience-card">
-    <span class="tc-card-icon">🔬</span>
-    <span class="tc-card-audience">Data & Code</span>
-    <div class="tc-card-title">Python & R Analyst</div>
-    <p class="tc-card-desc">Mathematical modeling, graphical analysis, and data pipelines in Python and R. I've applied these tools to physics lab work, a national math modeling competition, and cost-benefit modeling for public infrastructure proposals.</p>
-  </div>
-  <div class="tc-audience-card">
-    <span class="tc-card-icon">📷</span>
-    <span class="tc-card-audience">Photography</span>
-    <div class="tc-card-title">Portrait Photographer</div>
-    <p class="tc-card-desc">Operating as Celotta Photos since 2023. Documentary-influenced eye, natural light, authentic moments. Based in Portland during the school year, Twin Cities in summer.</p>
-  </div>
-  <div class="tc-audience-card">
-    <span class="tc-card-icon">🌲</span>
-    <span class="tc-card-audience">Community</span>
-    <div class="tc-card-title">Eagle Scout & Leader</div>
-    <p class="tc-card-desc">Eagle Scout (BSA, 2023). Led a 22-person river rafting Odyssey trip as a certified Wilderness First Responder. Active in public awareness work and community service.</p>
-  </div>
+<div class="tc-audience-card">
+<span class="tc-card-icon">⚙️</span>
+<span class="tc-card-audience">Engineering</span>
+<div class="tc-card-title">Fabricator & Analyst</div>
+<p class="tc-card-desc">Physics and mechanical engineering coursework backed by real shop hours — CNC milling, manual milling, welding, CAD/CAM, and precision metrology. I hold tolerances and take measurement seriously.</p>
+</div>
+<div class="tc-audience-card">
+<span class="tc-card-icon">🔬</span>
+<span class="tc-card-audience">Data & Code</span>
+<div class="tc-card-title">Python & R Analyst</div>
+<p class="tc-card-desc">Mathematical modeling, graphical analysis, and data pipelines in Python and R. I've applied these tools to physics lab work, a national math modeling competition, and cost-benefit modeling for public infrastructure proposals.</p>
+</div>
+<div class="tc-audience-card">
+<span class="tc-card-icon">📷</span>
+<span class="tc-card-audience">Photography</span>
+<div class="tc-card-title">Portrait Photographer</div>
+<p class="tc-card-desc">Operating as Celotta Photos since 2023. Documentary-influenced eye, natural light, authentic moments. Based in Portland during the school year, Twin Cities in summer.</p>
+</div>
+<div class="tc-audience-card">
+<span class="tc-card-icon">🌲</span>
+<span class="tc-card-audience">Community</span>
+<div class="tc-card-title">Eagle Scout & Leader</div>
+<p class="tc-card-desc">Eagle Scout (BSA, 2023). Led a 22-person river rafting Odyssey trip as a certified Wilderness First Responder. Active in public awareness work and community service.</p>
+</div>
 </div>
 </div>
 
 <div class="tc-stats-strip">
-  <div>
-    <div class="tc-stat-number">3/2</div>
-    <div class="tc-stat-label">Dual Degree<br>Program</div>
-  </div>
-  <div>
-    <div class="tc-stat-number">±0.003″</div>
-    <div class="tc-stat-label">Tolerance<br>Achieved</div>
-  </div>
-  <div>
-    <div class="tc-stat-number">5+</div>
-    <div class="tc-stat-label">Years<br>Leadership</div>
-  </div>
-  <div>
-    <div class="tc-stat-number">OSHA 10</div>
-    <div class="tc-stat-label">Safety<br>Certified</div>
-  </div>
-  <div>
-    <div class="tc-stat-number">WFR</div>
-    <div class="tc-stat-label">Wilderness<br>First Responder</div>
-  </div>
+<div>
+<div class="tc-stat-number">3/2</div>
+<div class="tc-stat-label">Dual Degree<br>Program</div>
+</div>
+<div>
+<div class="tc-stat-number">±0.003″</div>
+<div class="tc-stat-label">Tolerance<br>Achieved</div>
+</div>
+<div>
+<div class="tc-stat-number">5+</div>
+<div class="tc-stat-label">Years<br>Leadership</div>
+</div>
+<div>
+<div class="tc-stat-number">OSHA 10</div>
+<div class="tc-stat-label">Safety<br>Certified</div>
+</div>
+<div>
+<div class="tc-stat-number">WFR</div>
+<div class="tc-stat-label">Wilderness<br>First Responder</div>
+</div>
 </div>
 
 <div class="tc-section">
@@ -86,36 +86,36 @@ Physics student at Reed College in a 3/2 dual degree program — BA Physics at R
 <hr class="tc-rule">
 
 <div class="tc-timeline">
-  <div class="tc-timeline-item">
-    <div class="tc-tl-date">Jun 2025 – Aug 2025</div>
-    <div class="tc-tl-role">Mechanical Engineering Intern</div>
-    <div class="tc-tl-org">Twin Cities Makers · Minneapolis, MN</div>
-    <div class="tc-tl-desc">Designed and delivered a 15-hour machining curriculum covering manual milling, lathe turning, and CNC programming. Built a two-stage evaporative cooling prototype achieving ΔT = 5°F at 60% relative humidity. Fabricated a non-sparking propane regulator wrench on a manual mill, holding ±0.003″ tolerance throughout. Installed and maintained shop equipment, facilitated community engagement nights, and helped members troubleshoot mechanical problems.</div>
-  </div>
-  <div class="tc-timeline-item">
-    <div class="tc-tl-date">Aug 2025 – Present</div>
-    <div class="tc-tl-role">Night Bus Driver</div>
-    <div class="tc-tl-org">Reed College · Portland, OR</div>
-    <div class="tc-tl-desc">Operate scheduled late-night routes for students and staff across Southeast Portland. Manage vehicle safety checks, mileage logs, and coordination with community safety officers.</div>
-  </div>
-  <div class="tc-timeline-item">
-    <div class="tc-tl-date">Aug 2025 – Sep 2025</div>
-    <div class="tc-tl-role">Odyssey Trip Leader</div>
-    <div class="tc-tl-org">Reed College · Deschutes River, OR</div>
-    <div class="tc-tl-desc">Planned, organized, and led a river rafting trip for 22 incoming first-year students on the Deschutes River, operating as a certified Wilderness First Responder throughout.</div>
-  </div>
-  <div class="tc-timeline-item">
-    <div class="tc-tl-date">Oct 2023</div>
-    <div class="tc-tl-role">Engineering Job Shadow</div>
-    <div class="tc-tl-org">Medtronic · Minneapolis, MN</div>
-    <div class="tc-tl-desc">Shadowed six biomedical engineers on pacemaker systems R&D. Observed live surgery for procedural analysis and discussed materials and testing protocols for medical-grade components under NDA.</div>
-  </div>
-  <div class="tc-timeline-item">
-    <div class="tc-tl-date">Nov 2021 – Mar 2022</div>
-    <div class="tc-tl-role">Grant Writer</div>
-    <div class="tc-tl-org">Centennial School District · Lino Lakes, MN</div>
-    <div class="tc-tl-desc">Co-drafted a grant proposal for a diesel-to-electric school bus fleet conversion. Executed a 30-year cost-benefit analysis using Minnesota state energy data and Excel financial modeling.</div>
-  </div>
+<div class="tc-timeline-item">
+<div class="tc-tl-date">Jun 2025 – Aug 2025</div>
+<div class="tc-tl-role">Mechanical Engineering Intern</div>
+<div class="tc-tl-org">Twin Cities Makers · Minneapolis, MN</div>
+<div class="tc-tl-desc">Designed and delivered a 15-hour machining curriculum covering manual milling, lathe turning, and CNC programming. Built a two-stage evaporative cooling prototype achieving ΔT = 5°F at 60% relative humidity. Fabricated a non-sparking propane regulator wrench on a manual mill, holding ±0.003″ tolerance throughout. Installed and maintained shop equipment, facilitated community engagement nights, and helped members troubleshoot mechanical problems.</div>
+</div>
+<div class="tc-timeline-item">
+<div class="tc-tl-date">Aug 2025 – Present</div>
+<div class="tc-tl-role">Night Bus Driver</div>
+<div class="tc-tl-org">Reed College · Portland, OR</div>
+<div class="tc-tl-desc">Operate scheduled late-night routes for students and staff across Southeast Portland. Manage vehicle safety checks, mileage logs, and coordination with community safety officers.</div>
+</div>
+<div class="tc-timeline-item">
+<div class="tc-tl-date">Aug 2025 – Sep 2025</div>
+<div class="tc-tl-role">Odyssey Trip Leader</div>
+<div class="tc-tl-org">Reed College · Deschutes River, OR</div>
+<div class="tc-tl-desc">Planned, organized, and led a river rafting trip for 22 incoming first-year students on the Deschutes River, operating as a certified Wilderness First Responder throughout.</div>
+</div>
+<div class="tc-timeline-item">
+<div class="tc-tl-date">Oct 2023</div>
+<div class="tc-tl-role">Engineering Job Shadow</div>
+<div class="tc-tl-org">Medtronic · Minneapolis, MN</div>
+<div class="tc-tl-desc">Shadowed six biomedical engineers on pacemaker systems R&D. Observed live surgery for procedural analysis and discussed materials and testing protocols for medical-grade components under NDA.</div>
+</div>
+<div class="tc-timeline-item">
+<div class="tc-tl-date">Nov 2021 – Mar 2022</div>
+<div class="tc-tl-role">Grant Writer</div>
+<div class="tc-tl-org">Centennial School District · Lino Lakes, MN</div>
+<div class="tc-tl-desc">Co-drafted a grant proposal for a diesel-to-electric school bus fleet conversion. Executed a 30-year cost-benefit analysis using Minnesota state energy data and Excel financial modeling.</div>
+</div>
 </div>
 </div>
 
@@ -125,51 +125,51 @@ Physics student at Reed College in a 3/2 dual degree program — BA Physics at R
 <hr class="tc-rule">
 
 <div class="tc-skill-block">
-  <span class="tc-skill-label">Programming & Data</span>
-  <div class="tc-tags">
-    <span class="tc-tag tc-tag-hi">Python</span>
-    <span class="tc-tag tc-tag-hi">R</span>
-    <span class="tc-tag">Excel</span>
-    <span class="tc-tag">Minitab</span>
-    <span class="tc-tag">Data Visualization</span>
-    <span class="tc-tag">Mathematical Modeling</span>
-    <span class="tc-tag">Statistical Analysis</span>
-  </div>
+<span class="tc-skill-label">Programming & Data</span>
+<div class="tc-tags">
+<span class="tc-tag tc-tag-hi">Python</span>
+<span class="tc-tag tc-tag-hi">R</span>
+<span class="tc-tag">Excel</span>
+<span class="tc-tag">Minitab</span>
+<span class="tc-tag">Data Visualization</span>
+<span class="tc-tag">Mathematical Modeling</span>
+<span class="tc-tag">Statistical Analysis</span>
+</div>
 </div>
 
 <div class="tc-skill-block">
-  <span class="tc-skill-label">Fabrication & Design</span>
-  <div class="tc-tags">
-    <span class="tc-tag tc-tag-hi">Autodesk Fusion 360 (CAD/CAM)</span>
-    <span class="tc-tag tc-tag-hi">CNC Milling (2.5 & 3-axis)</span>
-    <span class="tc-tag tc-tag-hi">Manual Milling</span>
-    <span class="tc-tag">Lathe Turning</span>
-    <span class="tc-tag">MIG / TIG / Stick Welding</span>
-    <span class="tc-tag">G-code</span>
-    <span class="tc-tag">Equipment Calibration</span>
-    <span class="tc-tag">Small Engine Repair</span>
-  </div>
+<span class="tc-skill-label">Fabrication & Design</span>
+<div class="tc-tags">
+<span class="tc-tag tc-tag-hi">Autodesk Fusion 360 (CAD/CAM)</span>
+<span class="tc-tag tc-tag-hi">CNC Milling (2.5 & 3-axis)</span>
+<span class="tc-tag tc-tag-hi">Manual Milling</span>
+<span class="tc-tag">Lathe Turning</span>
+<span class="tc-tag">MIG / TIG / Stick Welding</span>
+<span class="tc-tag">G-code</span>
+<span class="tc-tag">Equipment Calibration</span>
+<span class="tc-tag">Small Engine Repair</span>
+</div>
 </div>
 
 <div class="tc-skill-block">
-  <span class="tc-skill-label">Certifications</span>
-  <div class="tc-tags">
-    <span class="tc-tag tc-tag-hi">OSHA 10</span>
-    <span class="tc-tag tc-tag-hi">WFR (Wilderness First Responder)</span>
-    <span class="tc-tag">First Aid / CPR</span>
-    <span class="tc-tag">Epinephrine (2025)</span>
-    <span class="tc-tag">Lifeguard (2022)</span>
-  </div>
+<span class="tc-skill-label">Certifications</span>
+<div class="tc-tags">
+<span class="tc-tag tc-tag-hi">OSHA 10</span>
+<span class="tc-tag tc-tag-hi">WFR (Wilderness First Responder)</span>
+<span class="tc-tag">First Aid / CPR</span>
+<span class="tc-tag">Epinephrine (2025)</span>
+<span class="tc-tag">Lifeguard (2022)</span>
+</div>
 </div>
 </div>
 
 <div class="tc-resume-row">
-  <span class="tc-resume-label">Full résumé available for download</span>
-  <a href="2-27-26_Resume.pdf" class="tc-cta-link tc-cta-filled" target="_blank">Download Résumé →</a>
+<span class="tc-resume-label">Full résumé available for download</span>
+<a href="2-27-26_Resume.pdf" class="tc-cta-link tc-cta-filled" target="_blank">Download Résumé →</a>
 </div>
 
 <div style="padding: 1rem 0 2.5rem;">
-  <a href="Portfolio.qmd" class="tc-cta-link tc-cta-filled">View Portfolio →</a>
-  <a href="Photography.qmd" class="tc-cta-link">Photography</a>
-  <a href="Blog.qmd" class="tc-cta-link">Blog</a>
+<a href="Portfolio.qmd" class="tc-cta-link tc-cta-filled">View Portfolio →</a>
+<a href="Photography.qmd" class="tc-cta-link">Photography</a>
+<a href="Blog.qmd" class="tc-cta-link">Blog</a>
 </div>
