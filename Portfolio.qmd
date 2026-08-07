@@ -3,15 +3,13 @@ title: "Portfolio"
 ---
 
 ```{=html}
-<div class="tc-page-hero">
-<span class="tc-eyebrow">Work</span>
-<div class="tc-page-title">Projects & Portfolio</div>
-<p class="tc-page-sub">Engineering, fabrication, data analysis, and community work. A cross-section of what I've built, modeled, and shipped.</p>
+<div class="tc-page-title">Project Portfolio</div>
+<p class="tc-page-sub">Engineering, fabrication, data analysis, and community work.</p>
 </div>
 
 <div class="tc-section">
-<span class="tc-eyebrow">Engineering & Fabrication</span>
-<div class="tc-section-title">Built with hands and machines</div>
+
+<div class="tc-section-title">Engineering & Fabrication</div>
 <hr class="tc-rule">
 
 <div class="tc-project-grid">
@@ -35,11 +33,11 @@ title: "Portfolio"
 
   <div class="tc-project-card">
     <div class="tc-proj-header">
-      <span class="tc-proj-tag">Precision Machining</span>
+      <span class="tc-proj-tag">Machining</span>
       <div class="tc-proj-title">Non-Sparking Propane Wrench</div>
     </div>
     <div class="tc-proj-body">
-      <p class="tc-proj-desc">Fabricated a non-sparking propane regulator wrench entirely by hand on a manual mill, holding ±0.003″ tolerance throughout. Material selected for spark-resistance in flammable environments. A study in setup, patience, and measurement.</p>
+      <p class="tc-proj-desc">Fabricated a non-sparking propane regulator wrench entirely by hand on a Bridgeport Series I, holding ±0.001″ tolerance throughout.</p>
     </div>
     <div class="tc-proj-chips">
       <span class="tc-chip">Manual Mill</span>
@@ -57,7 +55,7 @@ title: "Portfolio"
       <div class="tc-proj-title">15-Hour Machining Curriculum</div>
     </div>
     <div class="tc-proj-body">
-      <p class="tc-proj-desc">Designed and implemented a comprehensive 15-hour curriculum covering manual milling, lathe turning, CAD/CAM development in Fusion 360, and CNC milling for the Twin Cities Makers community shop. Created instructional materials, delivered sessions, and iterated based on participant feedback.</p>
+      <p class="tc-proj-desc">Designed and implemented a comprehensive 15-hour curriculum covering manual milling, lathe turning, CAD/CAM development in Fusion 360, and CNC milling for the Twin Cities Makers community shop.</p>
     </div>
     <div class="tc-proj-chips">
       <span class="tc-chip">CNC</span>
@@ -73,29 +71,11 @@ title: "Portfolio"
 </div>
 
 <div class="tc-section">
-<span class="tc-eyebrow">Data & Analysis</span>
-<div class="tc-section-title">Models, code, and results</div>
+
+<div class="tc-section-title">Data Analysis & Simulations</div>
 <hr class="tc-rule">
 
 <div class="tc-project-grid">
-  <div class="tc-project-card">
-    <div class="tc-proj-header">
-      <span class="tc-proj-tag">Policy & Finance</span>
-      <div class="tc-proj-title">Electric Bus Fleet Conversion</div>
-    </div>
-    <div class="tc-proj-body">
-      <p class="tc-proj-desc">30-year cost-benefit analysis for a diesel-to-electric school bus fleet conversion for Centennial School District, MN. Built a financial model in Excel using state energy data and co-authored the formal grant proposal submitted to the district.</p>
-    </div>
-    <div class="tc-proj-chips">
-      <span class="tc-chip">Excel</span>
-      <span class="tc-chip">Cost-Benefit Analysis</span>
-      <span class="tc-chip">Grant Writing</span>
-    </div>
-    <div class="tc-proj-links">
-      <a href="mailto:tylercelotta@reed.edu">Request Details</a>
-    </div>
-  </div>
-
   <div class="tc-project-card">
     <div class="tc-proj-header">
       <span class="tc-proj-tag">Competition · 2023</span>
@@ -135,8 +115,7 @@ title: "Portfolio"
 </div>
 
 <div class="tc-section">
-<span class="tc-eyebrow">Leadership & Service</span>
-<div class="tc-section-title">Beyond the lab bench</div>
+<div class="tc-section-title">Leadership & Service</div>
 <hr class="tc-rule">
 
 <div class="tc-project-grid">
@@ -193,12 +172,28 @@ title: "Portfolio"
       <a href="mailto:tylercelotta@reed.edu">Request Details</a>
     </div>
   </div>
+  <div class="tc-project-card">
+    <div class="tc-proj-header">
+      <span class="tc-proj-tag">Policy & Finance</span>
+      <div class="tc-proj-title">Electric Bus Fleet Conversion</div>
+    </div>
+    <div class="tc-proj-body">
+      <p class="tc-proj-desc">30-year cost-benefit analysis for a diesel-to-electric school bus fleet conversion for Centennial School District, MN. Built a financial model in Excel using state energy data and co-authored the formal grant proposal submitted to the district.</p>
+    </div>
+    <div class="tc-proj-chips">
+      <span class="tc-chip">Excel</span>
+      <span class="tc-chip">Cost-Benefit Analysis</span>
+      <span class="tc-chip">Grant Writing</span>
+    </div>
+    <div class="tc-proj-links">
+      <a href="mailto:tylercelotta@reed.edu">Request Details</a>
+    </div>
+  </div>
 </div>
 </div>
 
 <div class="tc-section">
-<span class="tc-eyebrow">Full Toolkit</span>
-<div class="tc-section-title">Skills inventory</div>
+<div class="tc-section-title">Skills</div>
 <hr class="tc-rule">
 
 <div class="tc-skill-block">
