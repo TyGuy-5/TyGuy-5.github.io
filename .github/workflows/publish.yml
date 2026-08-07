@@ -2,7 +2,8 @@ name: Deploy Quarto Site
 
 on:
   push:
-    branches: [ main, master ] 
+    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   build-deploy:
