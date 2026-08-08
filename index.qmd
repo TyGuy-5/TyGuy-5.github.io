@@ -1,6 +1,6 @@
 ---
 title: "Tyler Celotta"
-subtitle: "Physics · Engineering · Photography"
+subtitle: "<br>Physics · Engineering · Photography"
 image: Photos/Images/IMG_3685.JPG
 image-alt: "Photo of Tyler"
 about:
