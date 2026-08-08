@@ -255,3 +255,4 @@ css: styles.css
   <a href="mailto:tylercelotta@reed.edu" class="tc-cta-link tc-cta-filled">Get in Touch →</a>
   <a href="index.html" class="tc-cta-link">← Home</a>
 </div>
+```
