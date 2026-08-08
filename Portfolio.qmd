@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 title-block-style: none
-theme: styles.scss 
+scss: styles.scss 
 ---
 
 ```{=html}
