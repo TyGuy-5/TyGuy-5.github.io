@@ -26,29 +26,32 @@ Physics student at Reed College in a 3/2 dual degree program — BA Physics at R
 <hr class="tc-double-rule">
 
 <div class="tc-section">
-<span class="tc-eyebrow">About</span>
-<div class="tc-section-title">What I Do</div>
-<hr class="tc-rule">
+  <span class="tc-eyebrow">About</span>
+  <div class="tc-section-title">What I Do</div>
+  <hr class="tc-rule">
 
-<div class="tc-audience-grid">
-<div class="tc-audience-card">
-<div class="tc-card-title">Engineering</div>
-<p class="tc-card-desc">Physics and mechanical engineering coursework backed by real shop hours — CNC milling, manual milling, welding, CAD/CAM, and precision metrology. I hold tolerances and take measurement seriously.</p>
-</div>
-<div class="tc-audience-card">
-<div class="tc-card-title">Coding</div>
-<span class="tc-card-audience">Python & R </span>
-<p class="tc-card-desc">Mathematical modeling, graphical analysis, and data pipelines in Python and R. I've applied these tools to physics lab work, a national math modeling competition, and cost-benefit modeling for public infrastructure proposals.</p>
-</div>
-<div class="tc-audience-card">
-<div class="tc-card-title">Portrait Photographer</div>
-<p class="tc-card-desc">Operating as Celotta Photos since 2023. Documentary-influenced eye, natural light, authentic moments. Based in Portland during the school year, Twin Cities in summer.</p>
-</div>
-<div class="tc-audience-card">
-<div class="tc-card-title">Leadership</div>
-<p class="tc-card-desc">Eagle Scout (BSA, 2023). Led a 22-person river rafting Odyssey trip as a certified Wilderness First Responder. Active in public awareness work and community service.</p>
-</div>
-</div>
+  <div class="tc-audience-grid">
+    <div class="tc-audience-card">
+      <div class="tc-card-title">Engineering</div>
+      <p class="tc-card-desc">Physics and mechanical engineering coursework backed by real shop hours — CNC milling, manual milling, welding, CAD/CAM, and precision metrology. I hold tolerances and take measurement seriously.</p>
+    </div>
+
+    <div class="tc-audience-card">
+      <span class="tc-card-audience">Python & R</span>
+      <div class="tc-card-title">Coding</div>
+      <p class="tc-card-desc">Mathematical modeling, graphical analysis, and data pipelines in Python and R. I've applied these tools to physics lab work, a national math modeling competition, and cost-benefit modeling for public infrastructure proposals.</p>
+    </div>
+
+    <div class="tc-audience-card">
+      <div class="tc-card-title">Portrait Photographer</div>
+      <p class="tc-card-desc">Operating as Celotta Photos since 2023. Documentary-influenced eye, natural light, authentic moments. Based in Portland during the school year, Twin Cities in summer.</p>
+    </div>
+
+    <div class="tc-audience-card">
+      <div class="tc-card-title">Leadership</div>
+      <p class="tc-card-desc">Eagle Scout (BSA, 2023). Led a 22-person river rafting Odyssey trip as a certified Wilderness First Responder. Active in public awareness work and community service.</p>
+    </div>
+  </div>
 </div>
 
 <div class="tc-stats-strip">
