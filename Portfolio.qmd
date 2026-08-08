@@ -109,7 +109,7 @@ css: styles.css
         <span class="tc-chip">Uncertainty Analysis</span>
       </div>
       <div class="tc-proj-links">
-        <a href="Blog.html">Blog →</a>
+        <a href="Blog.qmd">Blog →</a>
       </div>
     </div>
   </div>
@@ -255,4 +255,3 @@ css: styles.css
   <a href="mailto:tylercelotta@reed.edu" class="tc-cta-link tc-cta-filled">Get in Touch →</a>
   <a href="index.html" class="tc-cta-link">← Home</a>
 </div>
-```
