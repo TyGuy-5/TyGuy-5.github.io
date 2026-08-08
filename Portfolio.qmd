@@ -1,13 +1,11 @@
 ---
-title: "Portfolio"
-title-block-style: none
 scss: styles.scss 
 ---
 
 ```{=html}
 <div class="tc-page-hero">
+<div class="tc-page-title">Project Portfolio</div>
 <span class="tc-eyebrow">Engineering, fabrication, data analysis, and community work.</span>
-<div class="tc-page-title"Project Portfolio></div>
 <p class="tc-page-sub">
 
 </p>
