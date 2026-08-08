@@ -109,7 +109,7 @@ css: styles.css
         <span class="tc-chip">Uncertainty Analysis</span>
       </div>
       <div class="tc-proj-links">
-        <a href="Blog.qmd">Blog →</a>
+        <a href="Blog.html">Blog →</a>
       </div>
     </div>
   </div>
