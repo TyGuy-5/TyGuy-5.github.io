@@ -3,12 +3,6 @@ title: "Photography"
 ---
 
 ```{=html}
-<div class="tc-page-hero">
-<p class="tc-page-sub">
-
-</p>
-</div>
-
 <div class="tc-section">
 <span class="tc-eyebrow">Gallery</span>
 
