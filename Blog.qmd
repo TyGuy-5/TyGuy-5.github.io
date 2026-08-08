@@ -8,7 +8,7 @@ editor: source
 ---
 
 <div class="tc-page-hero">
-<div class="tc-page-title">Notes & Projects</div>
+<div class="tc-page-title">Projects Documentation</div>
 <p class="tc-page-sub">Project documentation and occasionaly things that interest me.</p>
 </div>
 

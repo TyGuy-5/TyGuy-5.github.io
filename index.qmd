@@ -162,6 +162,6 @@ Physics student at Reed College in a 3/2 dual degree program — BA Physics at R
 <div style="padding: 1rem 0 2.5rem;">
 <a href="Portfolio.qmd" class="tc-cta-link tc-cta-filled">View Portfolio →</a>
 <a href="Photography.qmd" class="tc-cta-link">Photography</a>
-<a href="Blog.qmd" class="tc-cta-link">Blog</a>
+<a href="Blog.qmd" class="tc-cta-link">Documents</a>
 </div>
 ```
