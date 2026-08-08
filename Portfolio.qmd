@@ -5,9 +5,12 @@ scss: styles.scss
 ---
 
 ```{=html}
-<div class="tc-page-header">
-<div class="tc-page-title">Project Portfolio</div>
-<p class="tc-page-sub">Engineering, fabrication, data analysis, and community work.</p>
+<div class="tc-page-hero">
+<span class="tc-eyebrow">Engineering, fabrication, data analysis, and community work.</span>
+<div class="tc-page-title"Project Portfolio></div>
+<p class="tc-page-sub">
+
+</p>
 </div>
 
 <div class="tc-section">
