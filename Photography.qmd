@@ -1,11 +1,7 @@
----
-title: "Photography"
----
-
 ```{=html}
 <div class="tc-page-hero">
-<span class="tc-eyebrow">Celotta Photos</span>
 <div class="tc-page-title">Photography</div>
+<span class="tc-eyebrow">Celotta Photos</span>
 <p class="tc-page-sub">
 
 </p>

@@ -1,6 +1,6 @@
 ---
 title: "Tyler Celotta"
-subtitle: "Physics · Engineering · Photography"
+subtitle: "<br>Physics · Engineering · Photography"
 image: Photos/Images/IMG_3685.JPG
 image-alt: "Photo of Tyler"
 about:
@@ -26,32 +26,32 @@ Physics student at Reed College in a 3/2 dual degree program — BA Physics at R
 <hr class="tc-double-rule">
 
 <div class="tc-section">
-<span class="tc-eyebrow">About</span>
-<div class="tc-section-title">What I Do</div>
-<hr class="tc-rule">
+  <span class="tc-eyebrow">About</span>
+  <div class="tc-section-title">What I Do</div>
+  <hr class="tc-rule">
 
-<div class="tc-audience-grid">
-<div class="tc-audience-card">
-<span class="tc-card-audience">Engineering</span>
-<div class="tc-card-title">Fabricator & Analyst</div>
-<p class="tc-card-desc">Physics and mechanical engineering coursework backed by real shop hours — CNC milling, manual milling, welding, CAD/CAM, and precision metrology. I hold tolerances and take measurement seriously.</p>
-</div>
-<div class="tc-audience-card">
-<span class="tc-card-audience">Data & Code</span>
-<div class="tc-card-title">Python & R Analyst</div>
-<p class="tc-card-desc">Mathematical modeling, graphical analysis, and data pipelines in Python and R. I've applied these tools to physics lab work, a national math modeling competition, and cost-benefit modeling for public infrastructure proposals.</p>
-</div>
-<div class="tc-audience-card">
-<span class="tc-card-audience">Photography</span>
-<div class="tc-card-title">Portrait Photographer</div>
-<p class="tc-card-desc">Operating as Celotta Photos since 2023. Documentary-influenced eye, natural light, authentic moments. Based in Portland during the school year, Twin Cities in summer.</p>
-</div>
-<div class="tc-audience-card">
-<span class="tc-card-audience">Community</span>
-<div class="tc-card-title">Eagle Scout & Leader</div>
-<p class="tc-card-desc">Eagle Scout (BSA, 2023). Led a 22-person river rafting Odyssey trip as a certified Wilderness First Responder. Active in public awareness work and community service.</p>
-</div>
-</div>
+  <div class="tc-audience-grid">
+    <div class="tc-audience-card">
+      <div class="tc-card-title">Engineering</div>
+      <p class="tc-card-desc">Physics and mechanical engineering coursework backed by real shop hours — CNC milling, manual milling, welding, CAD/CAM, and precision metrology. I hold tolerances and take measurement seriously.</p>
+    </div>
+
+    <div class="tc-audience-card">
+      <span class="tc-card-audience">Python & R</span>
+      <div class="tc-card-title">Coding</div>
+      <p class="tc-card-desc">Mathematical modeling, graphical analysis, and data pipelines in Python and R. I've applied these tools to physics lab work, a national math modeling competition, and cost-benefit modeling for public infrastructure proposals.</p>
+    </div>
+
+    <div class="tc-audience-card">
+      <div class="tc-card-title">Portrait Photographer</div>
+      <p class="tc-card-desc">Operating as Celotta Photos since 2023. Documentary-influenced eye, natural light, authentic moments. Based in Portland during the school year, Twin Cities in summer.</p>
+    </div>
+
+    <div class="tc-audience-card">
+      <div class="tc-card-title">Leadership</div>
+      <p class="tc-card-desc">Eagle Scout (BSA, 2023). Led a 22-person river rafting Odyssey trip as a certified Wilderness First Responder. Active in public awareness work and community service.</p>
+    </div>
+  </div>
 </div>
 
 <div class="tc-stats-strip">
@@ -113,8 +113,7 @@ Physics student at Reed College in a 3/2 dual degree program — BA Physics at R
 </div>
 
 <div class="tc-section">
-<span class="tc-eyebrow">Toolkit</span>
-<div class="tc-section-title">Skills & Capabilities</div>
+<div class="tc-section-title">Skills</div>
 <hr class="tc-rule">
 
 <div class="tc-skill-block">
@@ -136,7 +135,6 @@ Physics student at Reed College in a 3/2 dual degree program — BA Physics at R
 <span class="tc-tag tc-tag-hi">Autodesk Fusion 360 (CAD/CAM)</span>
 <span class="tc-tag tc-tag-hi">CNC Milling (2.5 & 3-axis)</span>
 <span class="tc-tag tc-tag-hi">Manual Milling</span>
-<span class="tc-tag">Lathe Turning</span>
 <span class="tc-tag">MIG / TIG / Stick Welding</span>
 <span class="tc-tag">G-code</span>
 <span class="tc-tag">Equipment Calibration</span>
@@ -164,6 +162,6 @@ Physics student at Reed College in a 3/2 dual degree program — BA Physics at R
 <div style="padding: 1rem 0 2.5rem;">
 <a href="Portfolio.qmd" class="tc-cta-link tc-cta-filled">View Portfolio →</a>
 <a href="Photography.qmd" class="tc-cta-link">Photography</a>
-<a href="Blog.qmd" class="tc-cta-link">Blog</a>
+<a href="Blog.qmd" class="tc-cta-link">Documents</a>
 </div>
 ```
