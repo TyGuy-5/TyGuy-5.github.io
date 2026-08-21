@@ -1,0 +1,30 @@
+---
+title: "Articles Mentioning My Swimming Career"
+format: html
+---
+### 2nd Place and New School Record
+##### Head Coach Pete Crawford Feb 24, 2024
+
+<p>30 top times of all time, a new school record, 4 entries to the state meet were accomplished by the 2024 section team. What an incredible 3 days and I couldn't be more proud to be the coach for this team. It all started with the 200 medley relay swimming to a 2nd place finish to punched their ticket to next weeks state meet. Caleb Cregan led off with a fantastic backstroke leg giving way to Benno Schuhbauer swimming the breaststroke then Tyler Celotta the butterfly, and Joe Murray follwed that up with blistering 50 freestyle. 2 events later Caleb Cregan swam to a 2nd place finish in the 200 IM with a time of 2:02.38 and Benno Schuhbauer finished 4th. Then in the next event Joe Murray punched his own ticket to state with a 2nd place finish in the 50 Free with a time of 22.20 and Manny Poscher finished 8th. 0.05 was the difference for the 200 freestyle team of Joe, Sawyer Celotta, Talen Greeson-Stormoen, and Manny Poscher from their state appearance with a 3rd place finish. But in the next event the fireworks went off for Centennial as Caleb swam to a new school record and became a section champion with a 1st place time of 53.54. Benno Schuhbauer place 3rd, Grant Page placed 6th and Jaden Lynch-Rygh took 9th.</p>
+
+<p>At the conclusion of the meet the team earned a 2nd place finish behind Duluth for the 2nd year in a row.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Rank</th>
+      <th>Team</th>
+      <th>Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Duluth</td><td>502</td></tr>
+    <tr><td>2</td><td>Centennial</td><td>339</td></tr>
+    <tr><td>3</td><td>Forest Lake</td><td>257</td></tr>
+    <tr><td>4</td><td>Coon Rapids</td><td>240.5</td></tr>
+    <tr><td>5</td><td>Andover</td><td>237</td></tr>
+    <tr><td>6</td><td>Anoka</td><td>214.5</td></tr>
+    <tr><td>7</td><td>Blaine</td><td>187</td></tr>
+    <tr><td>8</td><td>Cambridge Isanti</td><td>126</td></tr>
+  </tbody>
+</table>
